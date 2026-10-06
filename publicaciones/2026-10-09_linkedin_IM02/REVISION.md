@@ -113,3 +113,9 @@ Aplicadas el 6 de octubre de 2026 sobre el dictamen y las decisiones aprobadas e
 - **De paso:** O1 a O6 se ven aplicados en las láminas y en `COPY.txt`. El PDF tiene siete páginas que coinciden con los JPG. `COPY.txt`, `TEXTOS_APROBADOS.txt` y esta ficha son UTF-8 sin U+FFFD.
 - **Observación menor, sin bloquear:** en `TEXTOS_APROBADOS.txt`, lámina 4, «Otros compromisos» y «Revisa cuáles vencen antes de que lleguen los cobros.» quedaron en la misma línea. En la imagen están bien separados; solo falta el salto de línea en el archivo de texto.
 - **Pendiente fuera de la pieza:** actualizar `COORDINACION.md`. Aprobación final y horario: Hugo. No se programó nada. IM01 intacto.
+
+## Aprobación final de Hugo — 6 de octubre de 2026
+
+Hugo indicó expresamente «Aprobado IM cero dos.» después de las correcciones y la comprobación breve de Claude. Quedan aprobados el carrusel y el copy vigentes de IM02 LinkedIn, cuyas piezas corresponden al commit c6538c77dd46a4d52b623a749bc0e6e78dc9a551. Se corrigió únicamente el salto de línea señalado por Claude en TEXTOS_APROBADOS.txt, lámina 4, sin cambiar palabras ni imágenes.
+
+Fecha prevista: 9 de octubre de 2026. Horario todavía pendiente de Hugo; no se ha programado. Instagram (reel corto) y Facebook (texto + gráfico) siguen pendientes de producir y aprobar. Esta aprobación se refiere a LinkedIn y no acredita producción ni aprobación de las otras adaptaciones. COORDINACION.md mantiene su pendiente de actualización por la autorización específica antes solicitada. IM01 intacto.
