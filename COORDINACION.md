@@ -10,7 +10,25 @@ GitHub es el punto compartido para imágenes, copies y revisiones. Hugo no debe 
 
 No publicar ni programar por inferencia. No iniciar IM02. Mantener una versión vigente por pieza. No modificar ni duplicar Instagram IM01. Antes de escribir, leer el estado y evitar sobrescribir trabajo nuevo del otro asistente.
 
-## Estado al 6 de octubre de 2026
+## Programación IM01 confirmada — 6 de octubre de 2026
+
+Hugo autorizó expresamente la programación de las versiones finales y horarios propuestos. Verificación directa posterior en Metricool, marca cifranorte.mx, zona America/Mexico_City:
+
+| Red | Fecha y hora | ID | Formato | Estado |
+|---|---|---|---|---|
+| LinkedIn | 7 octubre 2026, 09:00 | 389683465 | Texto aprobado literal | PENDING, autoPublish true, draft false |
+| Facebook | 8 octubre 2026, 18:00 | 389683759 | Copy restaurado + imagen corregida | PENDING, autoPublish true, draft false |
+| Instagram | 8 octubre 2026, 09:00 | 389611224 | Carrusel de 7 imágenes | PENDING; existente, sin modificar |
+
+- [LinkedIn en Metricool](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=4817284349187277253)
+- [Facebook en Metricool](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=1307319234200882002)
+- Imagen Facebook tomada del commit aprobado 7462131413aeb8ed6ece9ac6025a05930997a2bd, tres barras marino. Metricool la importó a su almacenamiento.
+- Textos cotejados literalmente tras programar; sin añadir llamado a guardar al copy Facebook.
+- Consulta del 6 al 9 de octubre: exactamente estas tres publicaciones, sin duplicados. Registro de Instagram idéntico antes/después.
+- Programadas no significa publicadas. No volver a programar IM01. IM02 no iniciado.
+- Este estado sustituye las menciones históricas de aprobación y programación pendientes.
+
+## Antecedente previo a la autorización
 - Facebook IM01: imagen y copy en [carpeta de revisión](publicaciones/2026-10-08_facebook_IM01/). Enfoque aprobado; diseño pendiente de Claude y Hugo. Fecha de calendario 8oct2026, hora pendiente.
 - LinkedIn IM01: [copy aprobado](publicaciones/2026-10-07_linkedin_IM01/COPY_APROBADO.txt), conservar literalmente. Página Cifranorte conectada a Metricool, organización 146667745. Calendario 7oct2026; 09:00 es propuesta no aprobada. Sin programar.
 - Instagram IM01: programado 8oct2026 09:00 America/Mexico_City, siete imágenes. No modificar ni duplicar.

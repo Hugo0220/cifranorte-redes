@@ -1,6 +1,25 @@
-# IM01 Facebook · Revisión pendiente
+# IM01 Facebook · Programación confirmada
 
-![Gráfico para revisión](01.jpg)
+![Gráfico aprobado](01.jpg)
+
+## Programación IM01 confirmada — 6 de octubre de 2026
+
+Hugo autorizó expresamente la programación de las versiones finales y horarios propuestos. Verificación directa posterior en Metricool, marca cifranorte.mx, zona America/Mexico_City:
+
+| Red | Fecha y hora | ID | Formato | Estado |
+|---|---|---|---|---|
+| LinkedIn | 7 octubre 2026, 09:00 | 389683465 | Texto aprobado literal | PENDING, autoPublish true, draft false |
+| Facebook | 8 octubre 2026, 18:00 | 389683759 | Copy restaurado + imagen corregida | PENDING, autoPublish true, draft false |
+| Instagram | 8 octubre 2026, 09:00 | 389611224 | Carrusel de 7 imágenes | PENDING; existente, sin modificar |
+
+- [LinkedIn en Metricool](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=4817284349187277253)
+- [Facebook en Metricool](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=1307319234200882002)
+- Imagen Facebook tomada del commit aprobado 7462131413aeb8ed6ece9ac6025a05930997a2bd, tres barras marino. Metricool la importó a su almacenamiento.
+- Textos cotejados literalmente tras programar; sin añadir llamado a guardar al copy Facebook.
+- Consulta del 6 al 9 de octubre: exactamente estas tres publicaciones, sin duplicados. Registro de Instagram idéntico antes/después.
+- Programadas no significa publicadas. No volver a programar IM01. IM02 no iniciado.
+- Este estado sustituye las menciones históricas de aprobación y programación pendientes.
+
 
 ## Estado vigente tras las correcciones autorizadas por Hugo
 
