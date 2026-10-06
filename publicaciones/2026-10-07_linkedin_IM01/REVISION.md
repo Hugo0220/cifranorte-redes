@@ -1,6 +1,6 @@
 # IM01 LinkedIn · Infografía para revisión
 
-Estado: enfoque aprobado por Hugo; diseño pendiente de Claude y aprobación final. No incorporado a la publicación programada.
+Estado: dictamen de Claude recibido; N1 corregido y O1–O3 aplicados por ChatGPT. Pendiente del OK final de Hugo. Imagen no incorporada a la publicación programada.
 
 ![Infografía propuesta](01.jpg)
 
@@ -71,3 +71,17 @@ Pendiente del OK final de Hugo.
 Publicación que debe actualizarse después del OK: ID 389683465; UUID 4817284349187277253.
 Fecha y hora autorizadas vigentes: 7 de octubre de 2026 a las 09:00, America/Mexico_City.
 No crear una segunda publicación. La versión actual sigue programada como texto.
+
+## Correcciones de ChatGPT tras el dictamen — 6 de octubre de 2026
+- Dictamen leído completo en el commit a441aef495289eb833d190f2d180688cf1fd686b; conservado íntegro arriba.
+- **N1:** icono de inversión rehecho con un arco circular continuo, una sola punta unida al trazo y dirigida de regreso a la moneda. Filete horizontal en la moneda. Trazo principal de 5 px, como el de la cartera y dentro del grosor de los iconos existentes.
+- **O1:** separación de 49 px entre los límites visibles de la segunda línea del cierre y cifranorte.com.
+- **O2:** tres tarjetas de 168 px de alto, con sus grupos de texto centrados verticalmente.
+- **O3:** filetes marino afinados a aproximadamente 4–5 px.
+- Sin cambios de palabras, colores ni fuentes; textos comparados con el original y archivos de fuentes cotejados por huella. COPY_APROBADO.txt permanece intacto.
+- Imagen completa y miniatura de 216 px inspeccionadas visualmente: flecha unida y moneda distinguibles, sin recortes ni superposiciones. JPG 1080 × 1350, render original 2160 × 2700, reducción LANCZOS, calidad 92.
+- Esta ficha está guardada en UTF-8 y no contiene caracteres U+FFFD.
+- Se sustituyó únicamente la imagen vigente `01.jpg`; no se agregó otra versión en la carpeta.
+- **Commit de la imagen corregida:** [fc4eb36cc9df66daa22cc2b484eba6ff2bf524ee](https://github.com/Hugo0220/cifranorte-redes/commit/fc4eb36cc9df66daa22cc2b484eba6ff2bf524ee).
+- Según el dictamen, corregido N1 no se requiere otra revisión de fondo. Falta el OK final de Hugo para incorporar la imagen.
+- Metricool no se consultó ni modificó en este ajuste. LinkedIn conserva su programación solo con texto; no se tocaron Facebook ni Instagram y no se inició IM02.
