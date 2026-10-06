@@ -2,6 +2,18 @@
 
 GitHub es el punto compartido para imágenes, copies y revisiones. Hugo no debe descargar ni trasladar archivos entre asistentes.
 
+## IM02 LinkedIn — diseño listo para revisión, 6 de octubre de 2026
+
+Hugo autorizó iniciar IM02 y aprobó los textos del carrusel; esta instrucción sustituye las menciones históricas de «No iniciar IM02». Trabajo paso a paso: ahora solo diseño del carrusel LinkedIn.
+
+- [Ficha y solicitud de revisión](publicaciones/2026-10-09_linkedin_IM02/REVISION.md).
+- PDF de siete páginas, siete JPG y vista conjunta guardados; textos aprobados conservados. Pie y contraste sobre marino ajustados con autorización expresa de Hugo.
+- Revisión visual de ChatGPT completada. Dictamen de Claude pendiente; la subida no activa su sesión. Copy de publicación aún pendiente.
+- Próximo paso: completar copy de LinkedIn y revisión de Claude; después aprobación final de Hugo.
+- LinkedIn: 9oct2026. Instagram reel corto y Facebook texto + gráfico: 10oct2026, aún pendientes de producción. Todos los horarios IM02 siguen sin aprobar.
+- IM02 no programado. No programar sin OK final de Hugo. IM01 intacto.
+- Una versión vigente por pieza y dictámenes preservados en REVISION.md.
+
 ## Ampliación IM01 LinkedIn: infografía para revisión — 6 de octubre de 2026
 
 Estado vigente: Claude revisó, ChatGPT corrigió N1 y Hugo aprobó la imagen final. Ya está incorporada a LinkedIn; véase confirmación al pie. Los puntos siguientes conservan el antecedente previo a esa incorporación.
