@@ -16,3 +16,37 @@ Revisa `01.jpg` y `COPY.txt` completos. Primero evalúa la precisión financiera
 
 Tras el dictamen de Claude, ChatGPT aplicará las correcciones aprobadas; Hugo revisará el resultado y aprobará, si procede, el texto, gráfico y horario. **No programar en Metricool sin su OK final.**
 
+
+## Dictamen de Claude — 6 de octubre de 2026
+- **Commit revisado:** 635415e9359c7b9d6e5cc9db820f6f8fb4778b56 (versión vigente en `main` al revisar).
+- **Resultado: SIN CORRECCIONES NECESARIAS. Listo para aprobación final de Hugo.** Las observaciones de abajo son opcionales.
+- **Revisado:** `01.jpg` completo (1080 × 1350, RGB), en miniaturas de 360 px y 180 px de ancho, con muestreo de color en las etiquetas. También `COPY.txt` completo y esta ficha.
+
+### Precisión financiera
+- **Imagen:** plantea el riesgo como pregunta («¿Alcanza el efectivo el día del pago?») y no como escasez segura. La línea «HOY → PAGO → COBRO» muestra solo el orden de las fechas, sin montos ni fechas ficticias. Es correcto: un pago anterior al cobro es un riesgo solo si lo disponible no alcanza ese día.
+- **Copy:** «Aunque la semana cierre con saldo positivo, podrías no tener efectivo suficiente el día de ese pago.» Usa el condicional y liga el problema a la suficiencia del efectivo ese día, no al simple orden de fechas. «Revisa si alcanza en cada vencimiento» refuerza la misma idea. No hay promesas, cifras ni garantías de cobro.
+- **Coherencia con IM02:** usa los mismos términos que LinkedIn e Instagram aprobados: efectivo disponible, cobros previstos, pagos comprometidos y actualizar con lo que realmente ocurrió.
+
+### Lo que funciona
+- **Jerarquía:** banda marino con titular en Source Serif 4, después «Mira el orden de las fechas», la línea de tiempo y, al final, la pregunta en caja blanca con filete dorado. Se recorre de arriba abajo sin esfuerzo.
+- **Miniatura:** a 360 px de ancho se leen el titular, las tres etiquetas y la pregunta. A 180 px se siguen leyendo el titular y la pregunta, que es lo esencial.
+- **Contraste:** blanco sobre #13233A; marino sobre #F3F4F1 y sobre blanco. La etiqueta «PAGO» usa el mismo dorado oscuro (≈ #644A19) ya aceptado en IM02 de LinkedIn para texto pequeño sobre fondo claro. El gris de «HOY» y del dominio es legible.
+- **Márgenes:** texto y caja entre x = 96 y x = 984. El dominio está a unos 105 px del borde inferior y la etiqueta superior a más de 96 px del borde superior.
+- **Identidad:** paleta y fuentes oficiales, sin logo, con solo cifranorte.com al pie. El dorado se usa como acento (filete, nodo del pago, barra de la caja).
+- **Tono de Facebook:** directo y conversacional, en segunda persona, y cierra con una pregunta abierta que invita a comentar. La extensión (≈ 90 palabras) es adecuada.
+- **Codificación:** `COPY.txt` y esta ficha son UTF-8 sin U+FFFD.
+
+### 1. Correcciones necesarias
+Ninguna.
+
+### 2. Mejoras opcionales
+- **O1. Titular de la imagen: «El saldo de hoy no responde por mañana.»** «Responder por» significa «garantizar», así que el sentido es correcto, pero en una lectura rápida puede sonar raro. Más directo, si Hugo lo prefiere: «El saldo de hoy no garantiza el de mañana.» o «El saldo de hoy no te dice qué pasará mañana.».
+- **O2. Primera línea del copy: «Ver el saldo de hoy no responde todas las decisiones de mañana.»** Es el gancho del calendario, pero «responder decisiones» es poco natural. Alternativa fiel a la idea: «Ver el saldo de hoy no resuelve todas las decisiones de mañana.». Si se prefiere conservar literal el texto del calendario, puede quedar.
+- **O3. Enlace en el copy.** En Facebook los enlaces sí funcionan. Se puede cerrar con «Más en cifranorte.com» o con el enlace al diagnóstico (cifranorte.com/diagnostico/) antes de la pregunta final.
+- **O4. Retícula detrás del titular.** Las líneas de la retícula cruzan el titular blanco. No afectan la lectura, pero quitarlas detrás del texto, o dejarlas solo a la derecha, limpiaría la banda.
+- **O5. Recorte cuadrado.** Algunas vistas de Facebook (escritorio, compartidos) recortan la imagen a 1:1 centrado. En ese caso se pierden la etiqueta superior y cifranorte.com, pero el titular, la línea de tiempo y la pregunta se conservan. No requiere cambio; solo conviene saberlo.
+
+### 3. Conclusión
+**Listo para aprobación final de Hugo.** No hay correcciones necesarias. Las mejoras O1 a O4 son a criterio de Hugo; si aprueba alguna, ChatGPT la aplica y basta una comprobación breve.
+
+No modifiqué la imagen ni el copy, y no programé nada. Este dictamen no sustituye la aprobación de Hugo. Fecha editorial: 10 de octubre de 2026; horario sin aprobar.
