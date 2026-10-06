@@ -85,3 +85,21 @@ Hugo pidió a Claude decidir por él en este primer ejercicio («Decide por mí 
   - «los cobros esperados hasta ese momento» → «los cobros previstos hasta ese momento»
 - Actualizar `TEXTOS_APROBADOS.txt` con las láminas 4 y 5 resultantes.
 - Después de los ajustes, Claude hace una comprobación breve de N1 a N3, sin otra revisión de fondo. La aprobación final y el horario siguen siendo de Hugo. No programar.
+
+## Correcciones de ChatGPT tras el dictamen
+
+Aplicadas el 6 de octubre de 2026 sobre el dictamen y las decisiones aprobadas en b640ba67ce1bd7009940504cb9abac58877231f6. Todo el contenido anterior de esta ficha se conserva íntegro como antecedente. Esta sección refleja el estado posterior a las correcciones.
+
+- **N1:** agregada literalmente al final de la lámina 5 «Aunque la semana cierre en positivo, revisa si algún pago vence antes de un cobro.». Se conserva literalmente «El saldo final de cada semana inicia la siguiente.». Ambos párrafos usan Public Sans Regular 38 px e interlineado 1.4; fórmula recolocada y flecha inferior retirada para dar espacio.
+- **N2:** elegida la alternativa de retirar los puntos del tercer calendario y centrar el círculo con interrogación dentro del cuerpo. No hay puntos tapados ni cortados. Trazo de 4 px conservado.
+- **N3:** signos más y menos de la fórmula trazados con ancho y grosor iguales (20 px de largo y 4 px de trazo), centrados verticalmente respecto al texto de su propia fila y sobre el mismo eje horizontal x=140.
+- **O1:** texto centrado verticalmente en las cajas de las láminas 2, 3 y 7 mediante sus límites tipográficos reales. Alineación izquierda conservada.
+- **O2-B:** lámina 4 con «Incluye» y cuatro tarjetas: «Nómina», «Proveedores», «Impuestos», «Otros compromisos». Sin comas ni conjunción. Remate inferior intacto.
+- **O3:** retícula de la lámina 7 iniciada en y=928, debajo del tercer paso. Números centrados en sus círculos usando las dimensiones reales de cada glifo.
+- **O4:** folios de las siete láminas alineados por su borde derecho a x=984. En lámina 6, caja elevada a y=625, texto centrado dentro de ella y separación redistribuida entre introducción, caja, flecha y consecuencia.
+- **O5:** conservado el dorado oscuro de las etiquetas; el valor del código fuente es #6B5527 (el dictamen cita una aproximación muestreada de la imagen). No se introdujo otro color ni se cambió la paleta.
+- **O6:** aplicados exactamente los tres cambios aprobados en COPY.txt: «El saldo de hoy no te dice cuánto efectivo necesitarás en las próximas semanas.»; «pide a quien lleva tus finanzas»; «los cobros previstos hasta ese momento». Resto del copy conservado literalmente.
+- **Textos y archivos:** TEXTOS_APROBADOS.txt actualizado solo en láminas 4 y 5. Sustituidos 01.jpg a 07.jpg, PDF y vista conjunta bajo los mismos nombres. Actualización de COORDINACION.md pendiente: la revisión automática requiere autorización específica para reenviar su historial operativo existente al repositorio público. El estado vigente de IM02 queda registrado en esta ficha.
+- **Verificación:** siete JPG 1080 × 1350, render 2160 × 2700, fuentes oficiales estáticas cotejadas con ZIP, paleta, márgenes mínimos de texto de 96 px, sin logo. PDF de siete páginas de 540 × 675 pt, sin texto editable ni OCR. Siete páginas renderizadas revisadas visualmente, además de vista conjunta; sin cortes ni solapes. Textos cotejados contra el contenido aprobado actualizado.
+- **Codificación:** archivos de texto guardados en UTF-8, sin caracteres de sustitución U+FFFD. Dictamen y decisiones de Claude preservados íntegramente.
+- **Estado:** correcciones aplicadas; pendiente comprobación breve de N1 a N3 por Claude. La aprobación final y el horario siguen pendientes de Hugo. No se programó ni modificó nada en Metricool. IM01 intacto.

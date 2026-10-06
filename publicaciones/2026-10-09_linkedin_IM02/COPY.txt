@@ -1,12 +1,12 @@
 El flujo se vuelve más útil cuando deja de mirar solo lo que ya pasó.
 
-Tener efectivo hoy no responde cuánto necesitarás en las próximas semanas. Para anticiparlo, necesitas ponerle fecha a lo que esperas cobrar y a lo que tendrás que pagar.
+El saldo de hoy no te dice cuánto efectivo necesitarás en las próximas semanas. Para anticiparlo, necesitas ponerle fecha a lo que esperas cobrar y a lo que tendrás que pagar.
 
 El orden importa: un pago podría vencer antes de que llegue un cobro, aunque el saldo proyectado al cierre de la semana sea positivo.
 
 Por eso conviene partir del efectivo disponible, distinguir los cobros previstos de los ya recibidos y ubicar cada compromiso en su fecha. La proyección también necesita actualizarse cuando lo real cambia: un cliente se retrasa, surge un pago o se modifica un monto.
 
-El carrusel muestra cómo empezar esa revisión. Puedes llevarla a una acción concreta: pide a quien lleva tu tesorería que identifique la primera fecha en la que los pagos previstos superarían el efectivo disponible y los cobros esperados hasta ese momento.
+El carrusel muestra cómo empezar esa revisión. Puedes llevarla a una acción concreta: pide a quien lleva tus finanzas que identifique la primera fecha en la que los pagos previstos superarían el efectivo disponible y los cobros previstos hasta ese momento.
 
 Guárdalo para revisar tu próximo flujo.
 

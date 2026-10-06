@@ -16,12 +16,17 @@ Anota cuándo esperas recibirlo y qué tan seguro es. Una venta todavía no cobr
 LÁMINA 4
 Salidas previstas
 Ubica los pagos por fecha
-Incluye nómina, proveedores, impuestos y otros compromisos. Revisa cuáles vencen antes de que lleguen los cobros.
+Incluye
+Nómina
+Proveedores
+Impuestos
+Otros compromisos Revisa cuáles vencen antes de que lleguen los cobros.
 
 LÁMINA 5
 La señal
 Detecta cuándo no alcanzaría
 Calcula el saldo proyectado: efectivo inicial + cobros previstos − pagos previstos. El saldo final de cada semana inicia la siguiente.
+Aunque la semana cierre en positivo, revisa si algún pago vence antes de un cobro.
 
 LÁMINA 6
 Seguimiento
