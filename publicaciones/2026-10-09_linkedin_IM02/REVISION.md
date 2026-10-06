@@ -119,3 +119,11 @@ Aplicadas el 6 de octubre de 2026 sobre el dictamen y las decisiones aprobadas e
 Hugo indicó expresamente «Aprobado IM cero dos.» después de las correcciones y la comprobación breve de Claude. Quedan aprobados el carrusel y el copy vigentes de IM02 LinkedIn, cuyas piezas corresponden al commit c6538c77dd46a4d52b623a749bc0e6e78dc9a551. Se corrigió únicamente el salto de línea señalado por Claude en TEXTOS_APROBADOS.txt, lámina 4, sin cambiar palabras ni imágenes.
 
 Fecha prevista: 9 de octubre de 2026. Horario todavía pendiente de Hugo; no se ha programado. Instagram (reel corto) y Facebook (texto + gráfico) siguen pendientes de producir y aprobar. Esta aprobación se refiere a LinkedIn y no acredita producción ni aprobación de las otras adaptaciones. COORDINACION.md mantiene su pendiente de actualización por la autorización específica antes solicitada. IM01 intacto.
+
+## Programación autorizada y verificada — 6 de octubre de 2026
+
+Tras aprobar la pieza, Hugo autorizó expresamente programar IM02 LinkedIn para el 9 de octubre de 2026 a las 09:00, America/Mexico_City, aceptando el horario propuesto por ChatGPT.
+
+Programación confirmada en Metricool: LinkedIn, estado PENDING, autopublicación activa y no borrador. Un PDF de siete páginas con título «Anticipar necesidades de efectivo». El PDF importado se cotejó byte a byte contra el aprobado: idéntico. Copy coincidente con el aprobado; la plataforma únicamente elimina el salto de línea final del archivo.
+
+Consulta posterior: una sola publicación IM02 LinkedIn; las tres publicaciones IM01 se compararon íntegramente antes y después, sin cambios. Programado no significa publicado. Instagram IM02 y Facebook IM02 siguen pendientes de producción, revisión y aprobación. El pendiente independiente de COORDINACION.md continúa como se documentó antes.
