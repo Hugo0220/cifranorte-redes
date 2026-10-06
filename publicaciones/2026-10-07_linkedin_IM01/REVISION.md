@@ -1,6 +1,6 @@
 # IM01 LinkedIn · Infografía para revisión
 
-Estado: dictamen de Claude recibido; N1 corregido y O1–O3 aplicados por ChatGPT. Pendiente del OK final de Hugo. Imagen no incorporada a la publicación programada.
+Estado vigente: aprobada por Hugo e incorporada a LinkedIn en Metricool. Copy y horario intactos. Los apartados previos documentan el proceso; véase confirmación final al pie.
 
 ![Infografía propuesta](01.jpg)
 
@@ -85,3 +85,10 @@ No crear una segunda publicación. La versión actual sigue programada como text
 - **Commit de la imagen corregida:** [fc4eb36cc9df66daa22cc2b484eba6ff2bf524ee](https://github.com/Hugo0220/cifranorte-redes/commit/fc4eb36cc9df66daa22cc2b484eba6ff2bf524ee).
 - Según el dictamen, corregido N1 no se requiere otra revisión de fondo. Falta el OK final de Hugo para incorporar la imagen.
 - Metricool no se consultó ni modificó en este ajuste. LinkedIn conserva su programación solo con texto; no se tocaron Facebook ni Instagram y no se inició IM02.
+
+## Aprobación final e incorporación confirmada — 6 de octubre de 2026
+Hugo dio su OK final. Se incorporó la infografía corregida del commit fc4eb36cc9df66daa22cc2b484eba6ff2bf524ee a la publicación existente de LinkedIn, conservando literalmente el copy y la fecha: 7 de octubre de 2026, 09:00 America/Mexico_City.
+
+Verificación posterior: ID vigente 389705194 (Metricool cambia el ID al editar), mismo UUID 4817284349187277253, una imagen importada, estado PENDING, autoPublish true y draft false. No hay duplicado: siguen exactamente tres publicaciones IM01. Facebook e Instagram son idénticos antes y después. IM02 no iniciado. Programada no significa publicada.
+
+[Publicación de LinkedIn en Metricool](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=4817284349187277253).
