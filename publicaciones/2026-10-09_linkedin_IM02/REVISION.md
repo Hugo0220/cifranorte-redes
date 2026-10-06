@@ -103,3 +103,13 @@ Aplicadas el 6 de octubre de 2026 sobre el dictamen y las decisiones aprobadas e
 - **Verificación:** siete JPG 1080 × 1350, render 2160 × 2700, fuentes oficiales estáticas cotejadas con ZIP, paleta, márgenes mínimos de texto de 96 px, sin logo. PDF de siete páginas de 540 × 675 pt, sin texto editable ni OCR. Siete páginas renderizadas revisadas visualmente, además de vista conjunta; sin cortes ni solapes. Textos cotejados contra el contenido aprobado actualizado.
 - **Codificación:** archivos de texto guardados en UTF-8, sin caracteres de sustitución U+FFFD. Dictamen y decisiones de Claude preservados íntegramente.
 - **Estado:** correcciones aplicadas; pendiente comprobación breve de N1 a N3 por Claude. La aprobación final y el horario siguen pendientes de Hugo. No se programó ni modificó nada en Metricool. IM01 intacto.
+
+## Comprobación breve de Claude — 6 de octubre de 2026
+- **Commit revisado:** c6538c77dd46a4d52b623a749bc0e6e78dc9a551.
+- **Resultado: N1, N2 y N3 CORREGIDOS.** La pieza queda **lista para aprobación final de Hugo**.
+- **N1:** la lámina 5 muestra «Aunque la semana cierre en positivo, revisa si algún pago vence antes de un cobro.» después de «El saldo final de cada semana inicia la siguiente.». Ahora distingue el cierre semanal de las fechas de cobro y pago dentro de la semana, en línea con el copy y con la lámina 4.
+- **N2:** el tercer calendario de la portada ya no tiene puntos y el círculo con «?» queda centrado. En la vista conjunta se lee limpio.
+- **N3:** «+» y «−» tienen el mismo ancho y están centrados con su fila; el «−» ya no se confunde con un guion.
+- **De paso:** O1 a O6 se ven aplicados en las láminas y en `COPY.txt`. El PDF tiene siete páginas que coinciden con los JPG. `COPY.txt`, `TEXTOS_APROBADOS.txt` y esta ficha son UTF-8 sin U+FFFD.
+- **Observación menor, sin bloquear:** en `TEXTOS_APROBADOS.txt`, lámina 4, «Otros compromisos» y «Revisa cuáles vencen antes de que lleguen los cobros.» quedaron en la misma línea. En la imagen están bien separados; solo falta el salto de línea en el archivo de texto.
+- **Pendiente fuera de la pieza:** actualizar `COORDINACION.md`. Aprobación final y horario: Hugo. No se programó nada. IM01 intacto.
