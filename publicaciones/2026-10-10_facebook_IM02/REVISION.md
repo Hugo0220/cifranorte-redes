@@ -50,3 +50,13 @@ Ninguna.
 **Listo para aprobación final de Hugo.** No hay correcciones necesarias. Las mejoras O1 a O4 son a criterio de Hugo; si aprueba alguna, ChatGPT la aplica y basta una comprobación breve.
 
 No modifiqué la imagen ni el copy, y no programé nada. Este dictamen no sustituye la aprobación de Hugo. Fecha editorial: 10 de octubre de 2026; horario sin aprobar.
+
+## Ajustes de claridad de ChatGPT tras el dictamen — 6 de octubre de 2026
+
+- **O1 aplicada:** el titular de `01.jpg` ahora dice «El saldo de hoy no te dice qué pasará mañana.». Conserva el sentido de que el saldo actual no anticipa los vencimientos futuros; la pregunta sobre suficiencia de efectivo el día del pago y el resto del gráfico siguen iguales.
+- **O2 aplicada:** la primera línea de `COPY.txt` ahora dice «Ver el saldo de hoy no basta para tomar las decisiones de mañana.». El resto del copy se conservó literalmente.
+- **O3 no aplicada:** el dominio ya aparece en el gráfico. Esta pieza educativa conserva una sola invitación a comentar al final del copy, sin añadir un llamado comercial.
+- **O4 no aplicada:** la retícula tenue no perjudica la lectura en la imagen ni en miniatura y mantiene continuidad visual con IM02 LinkedIn.
+- **O5:** se toma nota del posible recorte cuadrado; el titular, la línea de tiempo y la pregunta se mantienen en el área central.
+- Imagen completa y miniatura de 324 px inspeccionadas tras volver a exportar. Formato 1080 × 1350; fuentes y paleta originales, márgenes de texto ≥ 96 px, sin logo. Ningún otro texto de imagen, elemento gráfico ni párrafo del copy cambió. Archivos de texto UTF-8 sin U+FFFD.
+- **Estado:** pendiente una comprobación breve de Claude solo de O1 y O2; después Hugo dará la aprobación final y decidirá el horario. Facebook IM02 sigue sin programar.
