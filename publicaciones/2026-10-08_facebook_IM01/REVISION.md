@@ -2,36 +2,44 @@
 
 ![Gráfico para revisión](01.jpg)
 
-Cifranorte � IM01 Facebook � Revisi�n
+## Estado vigente tras las correcciones autorizadas por Hugo
+
+6 de octubre de 2026. Restaurados desde los originales UTF-8 los 45 caracteres dañados del bloque de Facebook y los 34 del copy aprobado de LinkedIn, sin cambiar palabras. Verificado: cero caracteres U+FFFD en ambos textos restaurados. El dictamen de Claude se conserva íntegro; sus 10 símbolos de reemplazo son ejemplos históricos del problema, no texto publicable.
+
+Las tres barras laterales de Pago, Gasto e Inversión usan ahora marino #13233A. Comparación del original de alta resolución: ningún cambio fuera de esas barras. Imagen revisada completa y en miniatura. El llamado «Guárdalo para tu próxima autorización» queda únicamente en la imagen; la propuesta histórica de añadirlo al copy queda descartada por Hugo.
+
+Revisión de Claude realizada y correcciones solicitadas aplicadas. Aprobación final de diseño y horarios pendiente de Hugo. No programar, no tocar Instagram y no iniciar IM02. Las menciones anteriores de revisión pendiente o del añadido propuesto se conservan como antecedente y quedan sustituidas por este estado.
+
+Cifranorte · IM01 Facebook · Revisión
 Estado: borrador para Claude y Hugo; no programado.
-Fecha de calendario: 8 de octubre de 2026. Hora pendiente de aprobaci�n.
+Fecha de calendario: 8 de octubre de 2026. Hora pendiente de aprobación.
 
 IMAGEN
 Antes de autorizar
 El saldo del banco es solo una parte.
 Pago: Efectivo, compromisos y cobros pendientes.
-Gasto: Presupuesto y prioridades de la operaci�n.
-Inversi�n: Desembolso, costos y recuperaci�n esperada.
-Gu�rdalo para tu pr�xima autorizaci�n.
+Gasto: Presupuesto y prioridades de la operación.
+Inversión: Desembolso, costos y recuperación esperada.
+Guárdalo para tu próxima autorización.
 cifranorte.com
 
-COPY RECUPERADO � CONSERVADO
-�Tienes los n�meros claros antes de decidir?
+COPY RECUPERADO — CONSERVADO
+¿Tienes los números claros antes de decidir?
 
-Cuando toca autorizar un pago, un gasto o una inversi�n, ver el saldo del banco es apenas una parte de la revisi�n.
+Cuando toca autorizar un pago, un gasto o una inversión, ver el saldo del banco es apenas una parte de la revisión.
 
-Antes de dar el s�, conviene saber qu� compromisos tienes, qu� cobros siguen pendientes y c�mo encaja esa decisi�n en el presupuesto. Si vas a invertir, tambi�n necesitas revisar los costos y c�mo esperas recuperar lo invertido.
+Antes de dar el sí, conviene saber qué compromisos tienes, qué cobros siguen pendientes y cómo encaja esa decisión en el presupuesto. Si vas a invertir, también necesitas revisar los costos y cómo esperas recuperar lo invertido.
 
-Empieza por una decisi�n que tengas pendiente. �Qu� informaci�n te falta para tomarla con mayor control? Pide a la persona responsable que la confirme antes de autorizar.
+Empieza por una decisión que tengas pendiente. ¿Qué información te falta para tomarla con mayor control? Pide a la persona responsable que la confirme antes de autorizar.
 
-�Qu� informaci�n sueles revisar primero?
+¿Qué información sueles revisar primero?
 
-AJUSTE PROPUESTO PARA REVISI�N
-A�adir al final del copy: �Gu�rdalo para tu pr�xima autorizaci�n.�
-No incorporado a�n al copy recuperado.
+AJUSTE PROPUESTO PARA REVISIÓN
+Añadir al final del copy: «Guárdalo para tu próxima autorización.»
+No incorporado aún al copy recuperado.
 
 CONTROL
-PIL, fuentes oficiales est�ticas, 1080 � 1350, JPG calidad 92; revisi�n visual completa y miniatura realizada. Margen de 96 px y ausencia de progreso/numeraci�n autorizados por Hugo. Dise�o y programaci�n pendientes de aprobaci�n. Revisi�n de Claude pendiente.
+PIL, fuentes oficiales estáticas, 1080 × 1350, JPG calidad 92; revisión visual completa y miniatura realizada. Margen de 96 px y ausencia de progreso/numeración autorizados por Hugo. Diseño y programación pendientes de aprobación. Revisión de Claude pendiente.
 
 
 ## Criterios para Claude
