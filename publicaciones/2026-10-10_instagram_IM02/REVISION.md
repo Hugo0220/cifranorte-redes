@@ -95,3 +95,9 @@ No modifiqué el video, la vista conjunta, el copy, IM01 ni IM02 de LinkedIn, y 
 - **Conservado:** los seis textos aprobados aparecen idénticos y en el mismo orden. El formato sigue siendo reel MP4 H.264 de 1080 × 1920, 24 fps y 31.46 s. Los cortes siguen en 3.92, 7.83, 13.75, 21.63 y 27.54 s, sobre el compás. La pista de audio decodificada es idéntica a la versión anterior (mismo MD5): −14.9 LUFS y pico real de −1.4 dBTP.
 - **Codificación:** `COPY.txt` y esta ficha son UTF-8 sin U+FFFD.
 - No programé nada. Las mejoras opcionales O1–O6 quedan a criterio de Hugo. Aprobación final y horario: Hugo.
+
+## Aprobación final y programación de Instagram IM02 — 6 de octubre de 2026
+
+- Hugo aprobó el reel y el copy vigentes tras la comprobación de Claude, y autorizó expresamente programarlos para el sábado 10 de octubre de 2026 a las 09:00, zona America/Mexico_City.
+- Confirmación directa en Metricool: una sola publicación IM02 de Instagram para cifranorte.mx, formato REEL, 10oct2026 09:00 America/Mexico_City, estado PENDING, publicación automática activa y no es borrador. El copy programado coincide literalmente con `COPY.txt` y el medio corresponde al `IM02_Instagram_Reel.mp4` aprobado del commit 0fb8f71855352f2794d0650ac508438fe0672ca0.
+- Esta programación no acredita publicación efectiva; llegará en la fecha indicada. IM01 y LinkedIn IM02 no se modificaron. Facebook IM02 sigue como bloque pendiente e independiente.
