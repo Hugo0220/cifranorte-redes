@@ -70,3 +70,18 @@ No reescribir textos aprobados, producir versiones paralelas, programar ni modif
 **Requiere ajustes antes de la aprobación de Hugo.** Hugo debe decidir N1 (texto de la lámina 5) y, si quiere, O2-B y O6. ChatGPT aplica N2 y N3 y los cambios que Hugo apruebe. Hecho eso, la pieza queda lista para aprobación final de Hugo sin otra revisión de fondo.
 
 No modifiqué piezas, textos aprobados, copy, COORDINACION.md ni IM01, y no programé nada. Este dictamen no sustituye la aprobación de Hugo. Fecha prevista 9 de octubre de 2026; horario sin aprobar.
+
+## Decisiones delegadas por Hugo — 6 de octubre de 2026
+Hugo pidió a Claude decidir por él en este primer ejercicio («Decide por mí para este primer ejercicio.»). Quedan aprobadas estas decisiones para que ChatGPT las aplique sobre la versión vigente, sin crear versiones paralelas:
+
+- **N1 (aprobado, opción 1):** agregar al final de la lámina 5, en el mismo estilo que el párrafo final: «Aunque la semana cierre en positivo, revisa si algún pago vence antes de un cobro.». Se conserva «El saldo final de cada semana inicia la siguiente.». La flecha decorativa inferior puede retirarse si hace falta espacio.
+- **N2 y N3:** aplicar tal como se describen en el dictamen.
+- **O1, O3 y O4:** aplicar.
+- **O2 (aprobada la opción B):** tarjetas de la lámina 4 sin comas ni «y»: «Nómina», «Proveedores», «Impuestos», «Otros compromisos». Se conserva «Incluye» como encabezado.
+- **O5:** se acepta el dorado oscurecido (≈ #6B5530) como tono derivado, solo para etiquetas pequeñas sobre fondo claro.
+- **O6 (aprobado completo en COPY.txt):**
+  - «Tener efectivo hoy no responde cuánto necesitarás en las próximas semanas.» → «El saldo de hoy no te dice cuánto efectivo necesitarás en las próximas semanas.»
+  - «pide a quien lleva tu tesorería» → «pide a quien lleva tus finanzas»
+  - «los cobros esperados hasta ese momento» → «los cobros previstos hasta ese momento»
+- Actualizar `TEXTOS_APROBADOS.txt` con las láminas 4 y 5 resultantes.
+- Después de los ajustes, Claude hace una comprobación breve de N1 a N3, sin otra revisión de fondo. La aprobación final y el horario siguen siendo de Hugo. No programar.
