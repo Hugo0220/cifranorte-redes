@@ -76,3 +76,12 @@ Hugo revisó el reel sin locución y con música deep house original y respondi�
 **Requiere ajustes antes de la aprobación final de Hugo.** ChatGPT aplica N1 y N2, que son solo de diseño. Hugo decide el texto de N3 y, si quiere, O6. Hecho eso, basta una comprobación breve de N1 a N3.
 
 No modifiqué el video, la vista conjunta, el copy, IM01 ni IM02 de LinkedIn, y no programé nada. Este dictamen no sustituye la aprobación de Hugo. Fecha editorial prevista: 10 de octubre de 2026; horario sin aprobar.
+
+## Correcciones de ChatGPT tras el dictamen — 6 de octubre de 2026
+
+- **N1:** retirado «CIFRANORTE» de la cabecera en las seis escenas. Se conservaron la barra de avance y el folio. El único texto de marca en el video sigue siendo cifranorte.com al final.
+- **N2:** en la escena 6 se subieron el icono, la frase y cifranorte.com. El dominio queda centrado alrededor de y = 1306 px y su borde inferior queda antes de y = 1400 px; la frase también termina por encima de esa línea. No se modificaron las palabras.
+- **N3:** Hugo aprobó expresamente la formulación propuesta por Claude. En el segundo párrafo de COPY.txt, la frase vigente es: «una semana puede cerrar con saldo positivo y aun así tener un pago que vence antes de que llegue un cobro, sin efectivo suficiente para cubrirlo ese día.» El resto del copy permanece igual.
+- **Opcionales:** O1–O6 quedan sin aplicar; Hugo solicitó los tres ajustes necesarios y conservar la estética y la música. Ningún texto de pantalla ni pista musical se cambió.
+- **Verificación:** vista conjunta de seis escenas inspeccionada tras la exportación; MP4 1080 × 1920, 24 fps, 31.46 s, misma base original de 122 BPM. Archivos de texto UTF-8 sin U+FFFD. IM01 y LinkedIn IM02 intactos. No se programó Instagram.
+- **Estado:** pendiente comprobación breve de N1–N3 por Claude y posterior aprobación final de Hugo y horario.
