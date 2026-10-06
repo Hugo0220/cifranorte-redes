@@ -85,3 +85,13 @@ No modifiqué el video, la vista conjunta, el copy, IM01 ni IM02 de LinkedIn, y 
 - **Opcionales:** O1–O6 quedan sin aplicar; Hugo solicitó los tres ajustes necesarios y conservar la estética y la música. Ningún texto de pantalla ni pista musical se cambió.
 - **Verificación:** vista conjunta de seis escenas inspeccionada tras la exportación; MP4 1080 × 1920, 24 fps, 31.46 s, misma base original de 122 BPM. Archivos de texto UTF-8 sin U+FFFD. IM01 y LinkedIn IM02 intactos. No se programó Instagram.
 - **Estado:** pendiente comprobación breve de N1–N3 por Claude y posterior aprobación final de Hugo y horario.
+
+## Comprobación breve de Claude — 6 de octubre de 2026
+- **Commit revisado:** 0fb8f71855352f2794d0650ac508438fe0672ca0.
+- **Resultado: N1, N2 y N3 CORREGIDOS.** El reel queda **listo para aprobación final de Hugo**.
+- **N1:** ninguna escena muestra ya «CIFRANORTE» en la cabecera. Quedan la barra de avance y el folio «NN / 06». El único rastro de marca es cifranorte.com en la escena 6.
+- **N2:** en la escena 6, el icono ocupa y ≈ 529–952, «Anticipa qué revisar antes de decidir.» y ≈ 1046–1207 y «cifranorte.com» y ≈ 1299–1332. Todo termina por encima de y ≈ 1400, libre de la zona inferior que tapa la interfaz de Reels.
+- **N3:** `COPY.txt` contiene literalmente «…y aun así tener un pago que vence antes de que llegue un cobro, sin efectivo suficiente para cubrirlo ese día.». El resto del copy no cambió.
+- **Conservado:** los seis textos aprobados aparecen idénticos y en el mismo orden. El formato sigue siendo reel MP4 H.264 de 1080 × 1920, 24 fps y 31.46 s. Los cortes siguen en 3.92, 7.83, 13.75, 21.63 y 27.54 s, sobre el compás. La pista de audio decodificada es idéntica a la versión anterior (mismo MD5): −14.9 LUFS y pico real de −1.4 dBTP.
+- **Codificación:** `COPY.txt` y esta ficha son UTF-8 sin U+FFFD.
+- No programé nada. Las mejoras opcionales O1–O6 quedan a criterio de Hugo. Aprobación final y horario: Hugo.
