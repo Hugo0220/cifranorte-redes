@@ -2,6 +2,17 @@
 
 GitHub es el punto compartido para imágenes, copies y revisiones. Hugo no debe descargar ni trasladar archivos entre asistentes.
 
+## Ampliación IM01 LinkedIn: infografía para revisión — 6 de octubre de 2026
+
+Hugo aprobó el enfoque de añadir una infografía visual al texto de LinkedIn. La imagen está producida, pero todavía pendiente de revisión de Claude y aprobación final de Hugo.
+
+- [Infografía y ficha de revisión](publicaciones/2026-10-07_linkedin_IM01/REVISION.md).
+- Conservar COPY_APROBADO.txt literalmente.
+- La publicación existente 389683465, UUID 4817284349187277253, sigue programada como solo texto para 7oct2026 09:00 America/Mexico_City. NO se ha añadido esta imagen ni creado otra publicación.
+- Tras dictamen y OK final, actualizar esa misma publicación con la imagen aprobada; no duplicarla ni alterar texto/horario por inferencia.
+- Facebook e Instagram permanecen intactos. No iniciar IM02.
+- GitHub es el canal de entrega y revisión; no pedir a Hugo descargar o trasladar archivos. La subida no activa automáticamente a Claude.
+
 ## Flujo
 1. ChatGPT produce y sube los elementos.
 2. Claude revisa la imagen y el copy en este repositorio y registra sus observaciones en REVISION.md dentro de la carpeta de la pieza, identificando el commit revisado.
