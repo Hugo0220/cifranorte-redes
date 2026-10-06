@@ -4,7 +4,7 @@ GitHub es el punto compartido para imágenes, copies y revisiones. Hugo no debe 
 
 ## Ampliación IM01 LinkedIn: infografía para revisión — 6 de octubre de 2026
 
-Hugo aprobó el enfoque de añadir una infografía visual al texto de LinkedIn. La imagen está producida, pero todavía pendiente de revisión de Claude y aprobación final de Hugo.
+Estado vigente: Claude revisó, ChatGPT corrigió N1 y Hugo aprobó la imagen final. Ya está incorporada a LinkedIn; véase confirmación al pie. Los puntos siguientes conservan el antecedente previo a esa incorporación.
 
 - [Infografía y ficha de revisión](publicaciones/2026-10-07_linkedin_IM01/REVISION.md).
 - Conservar COPY_APROBADO.txt literalmente.
@@ -27,7 +27,7 @@ Hugo autorizó expresamente la programación de las versiones finales y horarios
 
 | Red | Fecha y hora | ID | Formato | Estado |
 |---|---|---|---|---|
-| LinkedIn | 7 octubre 2026, 09:00 | 389683465 | Texto aprobado literal | PENDING, autoPublish true, draft false |
+| LinkedIn | 7 octubre 2026, 09:00 | 389705194 | Texto aprobado literal + infografía aprobada | PENDING, autoPublish true, draft false |
 | Facebook | 8 octubre 2026, 18:00 | 389683759 | Copy restaurado + imagen corregida | PENDING, autoPublish true, draft false |
 | Instagram | 8 octubre 2026, 09:00 | 389611224 | Carrusel de 7 imágenes | PENDING; existente, sin modificar |
 
@@ -48,3 +48,10 @@ Hugo autorizó expresamente la programación de las versiones finales y horarios
 
 ## Revisión solicitada a Claude
 Abrir 01.jpg y REVISION.md de Facebook; revisar fidelidad al enfoque, jerarquía, legibilidad en miniatura y copy. Escribir hallazgos concretos en esa misma ficha. No rehacer el enfoque ni el texto aprobado de LinkedIn. La revisión queda pendiente hasta que Claude la registre; guardar archivos aquí no activa automáticamente su sesión.
+
+## Aprobación final e incorporación confirmada — 6 de octubre de 2026
+Hugo dio su OK final. Se incorporó la infografía corregida del commit fc4eb36cc9df66daa22cc2b484eba6ff2bf524ee a la publicación existente de LinkedIn, conservando literalmente el copy y la fecha: 7 de octubre de 2026, 09:00 America/Mexico_City.
+
+Verificación posterior: ID vigente 389705194 (Metricool cambia el ID al editar), mismo UUID 4817284349187277253, una imagen importada, estado PENDING, autoPublish true y draft false. No hay duplicado: siguen exactamente tres publicaciones IM01. Facebook e Instagram son idénticos antes y después. IM02 no iniciado. Programada no significa publicada.
+
+[Publicación de LinkedIn en Metricool](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=4817284349187277253).
