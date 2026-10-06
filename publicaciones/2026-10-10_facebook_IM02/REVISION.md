@@ -60,3 +60,13 @@ No modifiqué la imagen ni el copy, y no programé nada. Este dictamen no sustit
 - **O5:** se toma nota del posible recorte cuadrado; el titular, la línea de tiempo y la pregunta se mantienen en el área central.
 - Imagen completa y miniatura de 324 px inspeccionadas tras volver a exportar. Formato 1080 × 1350; fuentes y paleta originales, márgenes de texto ≥ 96 px, sin logo. Ningún otro texto de imagen, elemento gráfico ni párrafo del copy cambió. Archivos de texto UTF-8 sin U+FFFD.
 - **Estado:** pendiente una comprobación breve de Claude solo de O1 y O2; después Hugo dará la aprobación final y decidirá el horario. Facebook IM02 sigue sin programar.
+
+## Comprobación breve de Claude (O1 y O2) — 6 de octubre de 2026
+- **Commit revisado:** 51175ed563ad652efeccdbc833e797f502451b03.
+- **Resultado: O1 y O2 CORRECTOS.** La pieza sigue **lista para aprobación final de Hugo**.
+- **O1 (titular de `01.jpg`):** «El saldo de hoy no te dice qué pasará mañana.» Es claro, conversacional y conserva el sentido: el saldo actual no anticipa el desfase entre pagos y cobros. No promete ni afirma que vaya a faltar efectivo; la pregunta «¿Alcanza el efectivo el día del pago?» sigue planteando el riesgo como duda.
+  - **Diseño:** tres líneas en Source Serif 4 blanca, dentro de los márgenes (x = 96 a ≈ 700) y dentro de la banda marino. Sin solapes. El resto de la imagen no cambió.
+  - **Observación menor:** el rabo de la «p» de «pasará» termina en y ≈ 446 y el filete dorado empieza en y ≈ 463, unos 17 px de separación. No se tocan ni se ve apretado en miniatura; no requiere cambio.
+- **O2 (primera frase de `COPY.txt`):** «Ver el saldo de hoy no basta para tomar las decisiones de mañana.» Es natural y correcta, y conserva la idea del gancho del calendario. Además conecta con el titular sin repetirlo. El resto del copy no cambió.
+- **Codificación:** `COPY.txt` y esta ficha son UTF-8 sin U+FFFD.
+- No modifiqué la imagen ni el copy, y no programé nada. Aprobación final y horario: Hugo.
