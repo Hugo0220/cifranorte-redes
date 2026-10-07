@@ -92,3 +92,10 @@ ChatGPT aplica N1 a N3 (y las O de diseño que considere) conservando los textos
 - **O4 correcta (lámina 3):** la nota dice literalmente «Los días de atraso ayudan a ver qué saldos requieren más atención.» y coincide con TEXTOS_APROBADOS.txt. Está dentro de la caja y de los márgenes.
 - Fuentes, paleta y márgenes sin cambios; sin logo y con el dominio solo en el cierre. UTF-8, sin caracteres dañados (U+FFFD).
 - **Resultado:** listo para la aprobación final de Hugo. O1 a O3 de diseño y O5 quedan sin aplicar por decisión de Hugo; no impiden la aprobación. No se programó ni publicó nada.
+
+
+## Aprobación final de Hugo — 7 de octubre de 2026
+
+Hugo respondió «Aprobado» a la solicitud explícita de aprobación final del texto de LinkedIn y del carrusel y copy de Instagram, tras las comprobaciones de Claude. Queda aprobada la adaptación Instagram (01.jpg a 07.jpg y COPY.txt) vigente del commit 0d2ffafe3d3e37efb40e7d4a01ea38750345e61b. Dictámenes anteriores preservados íntegramente.
+
+Esta aprobación corresponde al contenido. Horarios y autorización de programación pendientes; no se programó nada en este paso. Facebook IM03 sigue pendiente de producción y revisión. IM01 e IM02 intactos.
