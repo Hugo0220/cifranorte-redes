@@ -63,3 +63,10 @@ Texto (solo con autorización de Hugo):
 
 - Archivo en UTF-8, sin caracteres dañados (U+FFFD).
 - No se programó ni publicó nada. LinkedIn e Instagram IM03, IM01 e IM02 sin cambios.
+
+
+## Aprobación final de Hugo — 7 de octubre de 2026
+
+Hugo respondió «Aprobado» a la solicitud explícita de aprobación final del gráfico y el copy de Facebook tal como están. Quedan aprobados 01.jpg y COPY.txt del commit a9f0623e7f69d01c139858a0c0275480d0494d54, tras dictamen de Claude sin correcciones necesarias. O1, O2 y O3 opcionales no se aplican; piezas intactas y dictamen íntegro preservado.
+
+Las tres adaptaciones de IM03 están producidas, revisadas por Claude y aprobadas por Hugo. El objetivo del bloque de contenido está cumplido. Horarios y autorización de programación continúan pendientes; no se programó nada en este paso. Antes de programar, acordar horarios y comprobar el estado real para evitar duplicados. IM01 e IM02 intactos.
