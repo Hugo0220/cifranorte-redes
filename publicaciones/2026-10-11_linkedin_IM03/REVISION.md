@@ -60,3 +60,10 @@ Hugo autorizó O1 y O2: «¿Qué falta para poder cobrar?» y «“Me deben” t
 - **O2 correcta:** «“Me deben” todavía no es suficiente información para decidir.»
 - El diff de COPY.txt contra el texto dictaminado solo cambia esas dos líneas; el resto del copy está intacto. UTF-8, sin caracteres dañados (U+FFFD).
 - **Resultado:** listo para la aprobación final de Hugo. No se programó ni publicó nada.
+
+
+## Aprobación final de Hugo — 7 de octubre de 2026
+
+Hugo respondió «Aprobado» a la solicitud explícita de aprobación final del texto de LinkedIn y del carrusel y copy de Instagram, tras las comprobaciones de Claude. Queda aprobada la adaptación LinkedIn (COPY.txt) vigente del commit 0d2ffafe3d3e37efb40e7d4a01ea38750345e61b. Dictámenes anteriores preservados íntegramente.
+
+Esta aprobación corresponde al contenido. Horarios y autorización de programación pendientes; no se programó nada en este paso. Facebook IM03 sigue pendiente de producción y revisión. IM01 e IM02 intactos.
