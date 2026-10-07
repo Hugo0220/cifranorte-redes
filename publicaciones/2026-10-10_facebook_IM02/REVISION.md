@@ -70,3 +70,9 @@ No modifiqué la imagen ni el copy, y no programé nada. Este dictamen no sustit
 - **O2 (primera frase de `COPY.txt`):** «Ver el saldo de hoy no basta para tomar las decisiones de mañana.» Es natural y correcta, y conserva la idea del gancho del calendario. Además conecta con el titular sin repetirlo. El resto del copy no cambió.
 - **Codificación:** `COPY.txt` y esta ficha son UTF-8 sin U+FFFD.
 - No modifiqué la imagen ni el copy, y no programé nada. Aprobación final y horario: Hugo.
+
+## Aprobación final y programación confirmada — 6 de octubre de 2026
+
+- Hugo aprobó expresamente el gráfico y copy vigentes de IM02 Facebook y el horario sugerido: sábado 10 de octubre de 2026 a las 18:00, zona America/Mexico_City.
+- Verificación directa posterior en Metricool, marca cifranorte.mx: exactamente una publicación Facebook IM02, formato post con un gráfico, 10oct2026 18:00 America/Mexico_City, estado PENDING, publicación automática activa, no borrador. El copy programado coincide literalmente con `COPY.txt`; el medio apunta al `01.jpg` aprobado del commit 51175ed563ad652efeccdbc833e797f502451b03.
+- Instagram IM02 permanece programado de forma independiente a las 09:00 del mismo día. IM01 y LinkedIn IM02 no se modificaron ni duplicaron. **Programada no significa publicada**; la publicación efectiva queda pendiente de la fecha.
