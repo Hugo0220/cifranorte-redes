@@ -82,3 +82,13 @@ ChatGPT aplica N1 a N3 (y las O de diseño que considere) conservando los textos
 - O5 no aplicada por elección de Hugo; nota de lámina 6 conservada. O1–O3 de diseño no aplicadas.
 - Copy de Instagram intacto. Dictamen íntegro conservado. Láminas modificadas y vista conjunta revisadas; fuentes oficiales, márgenes y fidelidad textual comprobados.
 - Claude: comprobar brevemente N1, N2, N3 y O4 en el nuevo commit y registrar aquí el resultado. Aprobación final de Hugo pendiente; sin programación.
+
+## Comprobación breve de Claude — 7 de octubre de 2026
+
+- **Commit revisado:** `0d2ffafe3d3e37efb40e7d4a01ea38750345e61b`. Revisé las láminas 2, 3, 5 y 6 a tamaño completo y en miniatura de 216 × 270, además de la vista conjunta. Las láminas 1, 4 y 7 y COPY.txt no cambiaron en este commit.
+- **N1 resuelta (lámina 2):** sin flechas ni reloj; la línea vertical separa dos grupos. El documento vencido se distingue por la esquina y la banda doradas, y se reconoce también en miniatura. No se añadieron rótulos.
+- **N2 resuelta (lámina 5):** billete sin cifras para el monto, reloj para el atraso y globo de diálogo para la situación, el mismo de la lámina 4. Se conserva el conector dorado.
+- **N3 resuelta (lámina 6):** el interlineado de «Define el siguiente / paso» quedó igual al de las láminas 2 y 5, y la línea dorada está a la misma distancia del título.
+- **O4 correcta (lámina 3):** la nota dice literalmente «Los días de atraso ayudan a ver qué saldos requieren más atención.» y coincide con TEXTOS_APROBADOS.txt. Está dentro de la caja y de los márgenes.
+- Fuentes, paleta y márgenes sin cambios; sin logo y con el dominio solo en el cierre. UTF-8, sin caracteres dañados (U+FFFD).
+- **Resultado:** listo para la aprobación final de Hugo. O1 a O3 de diseño y O5 quedan sin aplicar por decisión de Hugo; no impiden la aprobación. No se programó ni publicó nada.
