@@ -52,3 +52,11 @@ Ninguna.
 ## Ajustes autorizados por Hugo — 7 de octubre de 2026
 
 Hugo autorizó O1 y O2: «¿Qué falta para poder cobrar?» y «“Me deben” todavía no es suficiente información para decidir.». Aplicados; resto del copy intacto. Dictamen íntegro conservado. Claude: comprobar brevemente O1 y O2 en el nuevo commit. Aprobación final de Hugo pendiente. No programado.
+
+## Comprobación breve de Claude — 7 de octubre de 2026
+
+- **Commit revisado:** `0d2ffafe3d3e37efb40e7d4a01ea38750345e61b`.
+- **O1 correcta:** «¿Qué falta para poder cobrar?» sustituye a la pregunta anterior; el resto de la viñeta no cambió.
+- **O2 correcta:** «“Me deben” todavía no es suficiente información para decidir.»
+- El diff de COPY.txt contra el texto dictaminado solo cambia esas dos líneas; el resto del copy está intacto. UTF-8, sin caracteres dañados (U+FFFD).
+- **Resultado:** listo para la aprobación final de Hugo. No se programó ni publicó nada.
