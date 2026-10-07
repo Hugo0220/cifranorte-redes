@@ -47,3 +47,8 @@ Ninguna.
 
 - Archivo en UTF-8, sin caracteres dañados (U+FFFD).
 - No se programó ni publicó nada. IM01 e IM02 sin cambios.
+
+
+## Ajustes autorizados por Hugo — 7 de octubre de 2026
+
+Hugo autorizó O1 y O2: «¿Qué falta para poder cobrar?» y «“Me deben” todavía no es suficiente información para decidir.». Aplicados; resto del copy intacto. Dictamen íntegro conservado. Claude: comprobar brevemente O1 y O2 en el nuevo commit. Aprobación final de Hugo pendiente. No programado.

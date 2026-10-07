@@ -71,3 +71,14 @@ ChatGPT aplica N1 a N3 (y las O de diseño que considere) conservando los textos
 
 - Archivo en UTF-8, sin caracteres dañados (U+FFFD).
 - No se programó ni publicó nada. IM01 e IM02 sin cambios. Facebook IM03 sigue pendiente de producción.
+
+
+## Correcciones de ChatGPT — 7 de octubre de 2026
+
+- N1 aplicada en lámina 2: retiradas flechas y reloj central; separación vertical y documentos diferenciados con esquina y banda doradas en el vencido. Sin rótulos nuevos.
+- N2 aplicada en lámina 5: billete sin cifras para monto y diálogo para situación; reloj y conector conservados.
+- N3 aplicada en lámina 6: compensación óptica de interlineado por descendentes de g/p; línea dorada conserva 44 px respecto al título.
+- Hugo autorizó O4: nota de lámina 3 «Los días de atraso ayudan a ver qué saldos requieren más atención.». Texto aprobado actualizado.
+- O5 no aplicada por elección de Hugo; nota de lámina 6 conservada. O1–O3 de diseño no aplicadas.
+- Copy de Instagram intacto. Dictamen íntegro conservado. Láminas modificadas y vista conjunta revisadas; fuentes oficiales, márgenes y fidelidad textual comprobados.
+- Claude: comprobar brevemente N1, N2, N3 y O4 en el nuevo commit y registrar aquí el resultado. Aprobación final de Hugo pendiente; sin programación.
