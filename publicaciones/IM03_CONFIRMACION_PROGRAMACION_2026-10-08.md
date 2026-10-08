@@ -19,4 +19,4 @@ Enlaces de comprobación:
 
 Segunda consulta independiente a Metricool confirmó exactamente estas tres entradas con fechas, red, estado PENDING y autoPublish=true. Instagram 7 medios; Facebook 1. PENDING no equivale a publicación ya efectuada.
 
-IM01 e IM02: no modificados. Registro local del proyecto: **pendiente**; no se pudo acceder al archivo local `AGENTS.md` en la ruta de Windows indicada, por lo que, conforme a la instrucción del usuario, no se modificó el registro local sin verificar antes el protocolo. `COORDINACION.md` no se utilizó como fuente vigente.
+IM01 e IM02: no modificados. Registro de coordinación del proyecto actualizado el 8 de octubre de 2026 en `COORDINACION.md`. IM03 queda cerrado y verificado: copys cotejados literalmente contra los archivos de GitHub, fechas y redes confirmadas en Metricool, autoPublish=true, draft=false y sin duplicados detectados.
