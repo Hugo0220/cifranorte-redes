@@ -5,9 +5,12 @@
 Este bloque sustituye cualquier instrucción histórica incompatible que aparezca más abajo.
 
 - IM01: cerrado en producción y programación. No modificar ni duplicar sus publicaciones.
-- IM02: producción cerrada y programación vigente. No modificar las publicaciones ya programadas.
-  - Instagram: 10 octubre 2026, 09:00, America/Mexico_City.
-  - Facebook: 10 octubre 2026, 18:00, America/Mexico_City.
+- IM02: cerrado y verificado en Metricool el 8 de octubre de 2026. No modificar ni duplicar sus publicaciones.
+  - LinkedIn: 9 octubre 2026, 09:00, ID 389804816, estado PENDING, autoPublish true, draft false.
+  - Instagram: 10 octubre 2026, 09:00, ID 389895719, estado PENDING, autoPublish true, draft false.
+  - Facebook: 10 octubre 2026, 18:00, ID 389924509, estado PENDING, autoPublish true, draft false.
+  - Zona horaria: America/Mexico_City.
+  - Verificación: una sola publicación IM02 por canal en el rango revisado; sin duplicados detectados.
 - IM03: contenido aprobado en LinkedIn, Instagram y Facebook; programación verificada en Metricool, sin duplicados.
   - LinkedIn: 11 octubre 2026, 11:00, ID 390994981, estado PENDING.
   - Instagram: 12 octubre 2026, 18:00, ID 390995004, estado PENDING.
