@@ -72,3 +72,14 @@ Se aplicaron O1 (flechas entre tarjetas más visibles) y O2 (equilibrio vertical
 
 Estado: pendiente de comprobación breve de Claude sobre esta versión y de aprobación final de Hugo. Sin programación ni publicación.
 
+
+## Comprobación breve de Claude — 8 de octubre de 2026
+
+- **Commit revisado:** `79be81e5aa56d9abac286137a8d696689f889394`.
+- **Revisado:** `01.jpg` a tamaño completo e `IM04_Facebook_Miniatura.jpg` (216 × 270). `TEXTOS_APROBADOS.txt` y `COPY.txt` sin cambios respecto de `37f418a`.
+- **O1 aplicada:** las flechas entre tarjetas son más grandes y gruesas, y se distinguen en la miniatura.
+- **O2 aplicada:** la franja marino es más baja y las tarjetas tienen más aire; el bloque inferior queda equilibrado.
+- **O3 (enlace en el copy):** sigue opcional y depende de Hugo.
+- Textos idénticos a los aprobados, márgenes respetados, dominio una sola vez y sin logo.
+
+**Resultado: lista para la aprobación final de Hugo.** No se programó ni publicó nada.
