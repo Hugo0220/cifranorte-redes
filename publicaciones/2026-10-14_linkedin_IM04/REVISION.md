@@ -71,3 +71,14 @@ Se aplicaron O1 (espaciado de flechas en portada), O2 (equilibrio del renglón d
 
 Estado: pendiente de comprobación breve de Claude sobre esta versión y de aprobación final de Hugo. Sin programación ni publicación.
 
+
+## Comprobación breve de Claude — 8 de octubre de 2026
+
+- **Commit revisado:** `79be81e5aa56d9abac286137a8d696689f889394`.
+- **Revisado:** `01.jpg`, `04.jpg` y `07.jpg` a tamaño completo, vista conjunta y PDF (7 páginas de 1080 × 1350 puntos). `TEXTOS_APROBADOS.txt` y `COPY.txt` sin cambios respecto de `37f418a`.
+- **O1 aplicada:** en la lámina 1, los espacios antes y después de cada flecha de «Hallazgo → indicador → acción.» son iguales.
+- **O2 aplicada:** en la lámina 7, el recuadro se lee «Guárdalo para tu próximo / proyecto de mejora.», sin palabra suelta.
+- **O3 aplicada:** en la lámina 4, la regla inferior tiene 5 marcas y la superior 7 sobre el mismo largo; ahora se lee como otra forma de medir.
+- Textos idénticos a los aprobados, márgenes respetados, dominio solo en la lámina 7 y sin logo.
+
+**Resultado: lista para la aprobación final de Hugo.** No se programó ni publicó nada.
