@@ -1,5 +1,29 @@
 # Cifranorte · Coordinación de producción y revisión
 
+## Estado vigente — 8 de octubre de 2026
+
+Este bloque sustituye cualquier instrucción histórica incompatible que aparezca más abajo.
+
+- IM01: cerrado en producción y programación. No modificar ni duplicar sus publicaciones.
+- IM02: producción cerrada y programación vigente. No modificar las publicaciones ya programadas.
+  - Instagram: 10 octubre 2026, 09:00, America/Mexico_City.
+  - Facebook: 10 octubre 2026, 18:00, America/Mexico_City.
+- IM03: contenido aprobado en LinkedIn, Instagram y Facebook; programación verificada en Metricool, sin duplicados.
+  - LinkedIn: 11 octubre 2026, 11:00, ID 390994981, estado PENDING.
+  - Instagram: 12 octubre 2026, 18:00, ID 390995004, estado PENDING.
+  - Facebook: 13 octubre 2026, 10:00, ID 390995036, estado PENDING.
+  - Zona horaria: America/Mexico_City.
+  - Confirmación detallada: [IM03_CONFIRMACION_PROGRAMACION_2026-10-08.md](publicaciones/IM03_CONFIRMACION_PROGRAMACION_2026-10-08.md).
+- Siguiente frente editorial: IM04. No avanzar a producción sin mantener el flujo de revisión y aprobación establecido.
+- Pendiente posterior a publicación: registrar métricas de IM02 e IM03 para aprendizaje Lean Startup.
+
+### Regla operativa vigente
+1. Leer primero este bloque de estado.
+2. No reabrir IM01, IM02 o IM03 salvo instrucción expresa de Hugo.
+3. Evitar duplicados en Metricool.
+4. Mantener una sola versión vigente por pieza en GitHub.
+5. Registrar cada cierre de idea madre y su programación en este archivo.
+
 GitHub es el punto compartido para imágenes, copies y revisiones. Hugo no debe descargar ni trasladar archivos entre asistentes.
 
 ## IM02 LinkedIn — diseño listo para revisión, 6 de octubre de 2026
