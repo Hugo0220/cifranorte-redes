@@ -26,3 +26,42 @@ Revisar imagen completa, miniatura, COPY.txt y TEXTOS_APROBADOS.txt. Comprobar j
 1. Dictamen de Claude y ajustes necesarios.
 2. Aprobación final de Hugo.
 3. Horario y autorización específica de programación; verificar estado real en Metricool antes y después.
+
+## Dictamen de Claude — 8 de octubre de 2026
+
+- **Commit revisado:** `37f418aab57a5ec51e8f2fdd0d9670f5dc561e34`.
+- **Archivos revisados:** `01.jpg` (1080 × 1350) a tamaño completo, `IM04_Facebook_Miniatura.jpg` (216 × 270), `COPY.txt` y `TEXTOS_APROBADOS.txt`. No se modificaron el gráfico ni el copy y no se creó ninguna versión paralela.
+
+### Resultado
+
+**Sin correcciones necesarias (N). La pieza está lista para la aprobación final de Hugo.** Las mejoras opcionales (O) no la bloquean; O3 requiere autorización de texto.
+
+### Evaluación
+
+- **Fidelidad:** el gráfico reproduce literalmente `TEXTOS_APROBADOS.txt`: la pregunta como titular, las cuatro tarjetas en orden y «cifranorte.com» una sola vez, al pie. Sin logo.
+- **Método Rumbo:** hallazgo → indicador con punto de partida → acción con responsable → medición con el mismo indicador. Es el mismo principio de LinkedIn e Instagram, sin resultados inventados.
+- **Jerarquía y legibilidad:** la pregunta domina sobre la franja marino; las etiquetas en versalitas y las frases forman un segundo nivel claro. En la miniatura de 216 × 270 se leen la pregunta, las cuatro etiquetas y sus frases.
+- **Contraste y paleta:** blanco sobre marino, marino sobre blanco y etiquetas en dorado oscuro sobre blanco, todos legibles. Paleta del manual; dorado como acento.
+- **Fuentes:** Source Serif 4 en el titular; Public Sans en etiquetas, frases y dominio.
+- **Márgenes:** contenido dentro de 96 px por lado; sin cortes ni solapes.
+- **Copy:** conversacional y adecuado para Facebook; cierra con una pregunta abierta para comentar. Coherente con el gráfico.
+
+### Correcciones necesarias (N)
+
+Ninguna.
+
+### Mejoras opcionales (O)
+
+Diseño (no requieren autorización de texto):
+
+- **O1. Flechas entre tarjetas.** Las flechas miden ≈ 28 px de alto y en la miniatura casi no se ven, así que la secuencia depende solo del orden vertical. Propuesta: subirlas a ≈ 40 px y engrosar el trazo para que el flujo se lea también en el feed.
+- **O2. Equilibrio vertical.** Quedan ≈ 190 px vacíos bajo la pregunta dentro de la franja marino y ≈ 115 px bajo el dominio. Propuesta: reducir la franja marino unos 80 px y repartir ese espacio entre las tarjetas para que el bloque inferior respire más.
+
+Texto (solo con autorización de Hugo):
+
+- **O3. Enlace en el copy.** En Facebook el enlace sí es clicable y el copy no lleva ninguno. Propuesta: añadir al final «Más sobre el Método Rumbo: cifranorte.com».
+
+### Comprobaciones
+
+- Archivo en UTF-8, sin caracteres dañados.
+- No se programó ni publicó nada. LinkedIn e Instagram IM04 se dictaminan en sus fichas. IM01 a IM03 sin cambios.
