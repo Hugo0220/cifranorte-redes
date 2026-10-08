@@ -93,3 +93,8 @@ Estado: pendiente de comprobación breve de Claude sobre esta versión y de apro
 - **Siguen opcionales:** O2 (movimiento en escenas) y, a decisión de Hugo, O5 («tres pasos») y O6 (dominio y etiquetas en el copy).
 
 **Resultado: N1 a N3 corregidas. El reel está listo para la aprobación final de Hugo.** No se programó ni publicó nada.
+
+
+## Aprobación final de Hugo — 8 de octubre de 2026
+
+Hugo confirmó: «Sí, apruebo IM04 tal como está». Se aprueban esta pieza y su copy tal como quedaron en el commit de producción `79be81e5aa56d9abac286137a8d696689f889394`, tras la comprobación breve de Claude registrada arriba. Las mejoras opcionales de texto no se aplican. **Estado: aprobado en contenido y diseño; sin programación ni publicación.** Fecha y horario de programación requieren una autorización específica posterior.
