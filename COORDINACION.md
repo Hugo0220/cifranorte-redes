@@ -17,7 +17,7 @@ Este bloque sustituye cualquier instrucción histórica incompatible que aparezc
   - Facebook: 13 octubre 2026, 10:00, ID 390995036, estado PENDING.
   - Zona horaria: America/Mexico_City.
   - Confirmación detallada: [IM03_CONFIRMACION_PROGRAMACION_2026-10-08.md](publicaciones/IM03_CONFIRMACION_PROGRAMACION_2026-10-08.md).
-- Siguiente frente editorial: IM04. No avanzar a producción sin mantener el flujo de revisión y aprobación establecido.
+- IM04: producción editorial cerrada y aprobada por Hugo el 8 de octubre de 2026, tras dictamen y comprobación breve de Claude. Versión final de piezas y copies: commit `79be81e5aa56d9abac286137a8d696689f889394`. [LinkedIn](publicaciones/2026-10-14_linkedin_IM04/REVISION.md), [Instagram](publicaciones/2026-10-15_instagram_IM04/REVISION.md) y [Facebook](publicaciones/2026-10-15_facebook_IM04/REVISION.md). Las mejoras opcionales de texto quedan descartadas para esta versión por decisión de Hugo. Sin programación ni publicación; falta autorización específica de fecha/hora y verificación posterior en Metricool. Fechas editoriales del calendario: LinkedIn 14 de octubre; Instagram y Facebook 15 de octubre. Horarios no fijados.
 - Pendiente posterior a publicación: registrar métricas de IM02 e IM03 para aprendizaje Lean Startup.
 
 ### Regla operativa vigente
