@@ -30,3 +30,37 @@ Revisar el PDF y las siete imágenes a tamaño completo y en miniatura, junto co
 1. Dictamen de Claude y, si procede, correcciones y comprobación.
 2. Aprobación final de Hugo.
 3. Horario y autorización específica de programación; comprobar estado real en Metricool antes y después.
+
+## Dictamen de Claude — 8 de octubre de 2026
+
+- **Commit revisado:** `37f418aab57a5ec51e8f2fdd0d9670f5dc561e34`.
+- **Archivos revisados:** `01.jpg` a `07.jpg` (1080 × 1350) a tamaño completo, `IM04_LinkedIn_Vista_Conjunta.jpg` como miniatura (≈ 270 × 338 por lámina), `COPY.txt` y `TEXTOS_APROBADOS.txt`. No se modificaron láminas ni textos y no se creó ninguna versión paralela.
+
+### Resultado
+
+**Sin correcciones necesarias (N). La pieza está lista para la aprobación final de Hugo.** Las mejoras opcionales (O) no la bloquean; O1 a O3 son solo de diseño.
+
+### Evaluación
+
+- **Fidelidad:** las siete láminas reproducen literalmente `TEXTOS_APROBADOS.txt`, en orden. «cifranorte.com» aparece solo en la lámina 7. Sin logo.
+- **Método Rumbo:** la secuencia es correcta. Registrar el indicador antes de intervenir (lámina 3) corresponde a la línea base; responsable, fecha de revisión y control operando (lámina 5) corresponden a la Ruta; volver a medir con la misma definición (lámina 6) corresponde a la Bitácora. La lámina 6 muestra un cambio de lectura sin sugerir que fue favorable ni inventar cifras.
+- **Secuencia y diagramas:** los tres iconos de portada (documento, indicador, lista) se repiten en las láminas 2, 3 y 5 y se reúnen en la 7, así que la serie se sigue sin leer el texto. La barra de avance marca la lámina actual.
+- **Jerarquía y legibilidad:** titular en Source Serif 4, cuerpo en Public Sans, línea dorada como separador. En miniatura se leen todos los titulares y los cuerpos de las láminas claras.
+- **Contraste y paleta:** blanco sobre marino y marino sobre fondo claro, ambos altos; dorado solo como acento. «Método Rumbo» y el folio son legibles en las dos variantes.
+- **Márgenes:** todo el contenido dentro de 96 px por lado; sin cortes, solapes ni texto amontonado.
+- **Copy:** coherente con las láminas y con el tono de LinkedIn; distingue «actividad terminada» de «mejora demostrada», que es el punto central. Sin cifras ni promesas.
+
+### Correcciones necesarias (N)
+
+Ninguna.
+
+### Mejoras opcionales (O)
+
+- **O1. Lámina 1, línea «Hallazgo → indicador → acción.»** El espacio entre «Hallazgo» y la primera flecha (≈ 43 px) es menor que entre «indicador» y la segunda (≈ 68 px). Propuesta: igualar ambos espacios, por ejemplo a 40 px antes y después de cada flecha.
+- **O2. Lámina 7, recuadro «Guárdalo para tu próximo proyecto de mejora.»** La palabra «mejora.» queda sola en la segunda línea. Propuesta: cortar como «Guárdalo para tu próximo / proyecto de mejora.» o bajar ligeramente el cuerpo para que quepa en una línea. Mismas palabras.
+- **O3. Lámina 4, diagrama de dos reglas.** Las dos reglas tienen la misma separación entre marcas y solo están desplazadas, así que se leen como «otro punto de partida» más que como «otra forma de medir». Propuesta: dar a la regla inferior una separación distinta (por ejemplo, 5 marcas en lugar de 7 sobre el mismo largo) para que la diferencia de criterio se vea de inmediato.
+
+### Comprobaciones
+
+- Archivo en UTF-8, sin caracteres dañados.
+- No se programó ni publicó nada. Instagram y Facebook IM04 se dictaminan en sus fichas. IM01 a IM03 sin cambios.
