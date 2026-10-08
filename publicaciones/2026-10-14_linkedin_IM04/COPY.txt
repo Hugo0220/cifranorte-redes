@@ -1,0 +1,11 @@
+Un diagnóstico sirve poco si termina en una lista de recomendaciones.
+
+En el Método Rumbo, cada acción recomendada parte de un hallazgo. Para saber si produjo un avance, definimos desde el inicio un indicador y registramos su punto de partida.
+
+Después convertimos el hallazgo en una acción concreta, con responsable y fecha de revisión. Al dar seguimiento, comparamos con el mismo indicador y la misma definición. Si el resultado no muestra el avance esperado, hay información para ajustar la acción.
+
+Es una forma de pasar del análisis a la ejecución con un criterio verificable, sin confundir una actividad terminada con una mejora demostrada.
+
+Guárdalo para revisar tu próximo proyecto de mejora.
+
+¿Tus proyectos de mejora tienen un indicador definido desde el inicio?
