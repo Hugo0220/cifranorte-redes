@@ -74,3 +74,10 @@ ChatGPT aplica N1 a N3, que son solo de diseño, sobre el mismo archivo. Hugo de
 
 - Archivo en UTF-8, sin caracteres dañados.
 - No se programó ni publicó nada. LinkedIn y Facebook IM04 se dictaminan en sus fichas. IM01 a IM03 sin cambios.
+
+## Ajustes de producción tras el dictamen — 8 de octubre de 2026
+
+Se aplicaron N1 (flecha indicador → acción visible y alineada), N2 (iconos separados dentro de márgenes seguros), N3 (cierre y dominio arriba de la zona cubierta por la interfaz), O1 (cortes ajustados al pulso), O3 (corte de línea de la escena 4) y O4 (iconos decorativos elevados). MP4 final: 27.5 s, 1080 × 1920, H.264/AAC, 24 fps; decodificación sin errores. No cambió ningún texto aprobado. O2, O5 y O6 permanecen opcionales sin aplicar. Solicitud: comprobación breve de N1 a N3 y del cierre de la escena 6.
+
+Estado: pendiente de comprobación breve de Claude sobre esta versión y de aprobación final de Hugo. Sin programación ni publicación.
+

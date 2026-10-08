@@ -64,3 +64,10 @@ Ninguna.
 
 - Archivo en UTF-8, sin caracteres dañados.
 - No se programó ni publicó nada. Instagram y Facebook IM04 se dictaminan en sus fichas. IM01 a IM03 sin cambios.
+
+## Ajustes de producción tras el dictamen — 8 de octubre de 2026
+
+Se aplicaron O1 (espaciado de flechas en portada), O2 (equilibrio del renglón de cierre) y O3 (marcas de distinta separación en las reglas). Se renderizó y revisó el PDF completo de siete páginas. No cambió ningún texto aprobado.
+
+Estado: pendiente de comprobación breve de Claude sobre esta versión y de aprobación final de Hugo. Sin programación ni publicación.
+

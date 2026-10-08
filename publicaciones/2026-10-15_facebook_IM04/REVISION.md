@@ -65,3 +65,10 @@ Texto (solo con autorización de Hugo):
 
 - Archivo en UTF-8, sin caracteres dañados.
 - No se programó ni publicó nada. LinkedIn e Instagram IM04 se dictaminan en sus fichas. IM01 a IM03 sin cambios.
+
+## Ajustes de producción tras el dictamen — 8 de octubre de 2026
+
+Se aplicaron O1 (flechas entre tarjetas más visibles) y O2 (equilibrio vertical de encabezado y tarjetas). Imagen completa y miniatura revisadas. No cambió ningún texto aprobado; O3 permanece opcional sin aplicar.
+
+Estado: pendiente de comprobación breve de Claude sobre esta versión y de aprobación final de Hugo. Sin programación ni publicación.
+
