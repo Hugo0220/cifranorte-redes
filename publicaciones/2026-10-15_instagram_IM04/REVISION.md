@@ -81,3 +81,15 @@ Se aplicaron N1 (flecha indicador → acción visible y alineada), N2 (iconos se
 
 Estado: pendiente de comprobación breve de Claude sobre esta versión y de aprobación final de Hugo. Sin programación ni publicación.
 
+
+## Comprobación breve de Claude — 8 de octubre de 2026
+
+- **Commit revisado:** `79be81e5aa56d9abac286137a8d696689f889394`.
+- **Revisado:** `IM04_Instagram_Reel.mp4` completo (H.264 1080 × 1920, 24 fps, 27.5 s; AAC estéreo), decodificado sin errores, con cuadros a tamaño completo de las seis escenas y vista conjunta. `TEXTOS_APROBADOS.txt` y `COPY.txt` sin cambios respecto de `37f418a`.
+- **N1 resuelta:** la escena 6 se lee «Hallazgo → indicador →» / «acción → medición.»; aparecen las tres flechas del texto aprobado, centradas en la altura de las minúsculas y con espacios iguales.
+- **N2 resuelta:** los tres iconos están separados (unos 60 px entre ellos) y quedan dentro de x ≈ 178–905, sin tocar el margen derecho ni la franja de botones de Reels.
+- **N3 resuelta:** la secuencia, los iconos y el recuadro «Guarda estos tres pasos.» con «cifranorte.com» terminan en y ≈ 1360, por encima de la zona que tapa la interfaz. Bajo esa altura solo quedan la retícula decorativa y el folio «06 / 06», igual que en IM02.
+- **Mejoras aplicadas:** O1 (cortes en 3.92, 7.83, 13.75, 17.67 y 21.58 s, sobre el compás), O3 («Asigna responsable / y fecha de revisión.») y O4 (iconos de las escenas 1 y 2 más arriba). Audio: −14.9 LUFS y pico de −1.4 dBFS, sin cambios.
+- **Siguen opcionales:** O2 (movimiento en escenas) y, a decisión de Hugo, O5 («tres pasos») y O6 (dominio y etiquetas en el copy).
+
+**Resultado: N1 a N3 corregidas. El reel está listo para la aprobación final de Hugo.** No se programó ni publicó nada.
