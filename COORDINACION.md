@@ -11,7 +11,7 @@ Este bloque sustituye cualquier instrucción histórica incompatible que aparezc
   - Facebook: 10 octubre 2026, 18:00, ID 389924509, estado PENDING, autoPublish true, draft false.
   - Zona horaria: America/Mexico_City.
   - Verificación: una sola publicación IM02 por canal en el rango revisado; sin duplicados detectados.
-- IM03: contenido aprobado en LinkedIn, Instagram y Facebook; programación verificada en Metricool, sin duplicados.
+- IM03: cerrado y verificado en Metricool el 8 de octubre de 2026. Contenido aprobado en LinkedIn, Instagram y Facebook; copys cotejados literalmente contra GitHub; sin duplicados detectados.
   - LinkedIn: 11 octubre 2026, 11:00, ID 390994981, estado PENDING.
   - Instagram: 12 octubre 2026, 18:00, ID 390995004, estado PENDING.
   - Facebook: 13 octubre 2026, 10:00, ID 390995036, estado PENDING.
