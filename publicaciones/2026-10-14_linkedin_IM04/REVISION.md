@@ -87,3 +87,12 @@ Estado: pendiente de comprobación breve de Claude sobre esta versión y de apro
 ## Aprobación final de Hugo — 8 de octubre de 2026
 
 Hugo confirmó: «Sí, apruebo IM04 tal como está». Se aprueban esta pieza y su copy tal como quedaron en el commit de producción `79be81e5aa56d9abac286137a8d696689f889394`, tras la comprobación breve de Claude registrada arriba. Las mejoras opcionales de texto no se aplican. **Estado: aprobado en contenido y diseño; sin programación ni publicación.** Fecha y horario de programación requieren una autorización específica posterior.
+
+
+## Programación verificada — 8 de octubre de 2026
+
+- Fecha y hora: 14 de octubre de 2026, 11:00, zona `America/Mexico_City`.
+- Metricool: ID 391341080, UUID `-6629029356132351803`; [abrir publicación](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-6629029356132351803).
+- Medio importado: PDF de siete páginas. Copy cotejado literalmente con `COPY.txt` aprobado.
+- Estado devuelto y confirmado mediante nueva consulta: **PENDING**, `autoPublish: true`, `draft: false`.
+- En el rango del 14 al 15 de octubre hay exactamente una publicación IM04 de este canal. Programada no significa publicada.
