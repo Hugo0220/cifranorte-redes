@@ -12,7 +12,7 @@ Las tres entradas están `PENDING`, `autoPublish: true`, `draft: false`; copys e
 
 ## Seguimiento posterior centralizado — 9 octubre 2026
 
-Por instrucción expresa de Hugo, el chat único de seguimiento posterior cubre IM01 en adelante; los chats de producción terminan al aprobar y programar. Esta ampliación sustituye la exclusividad anterior de IM06. No modificar piezas ya aprobadas. IM07 está en producción; no iniciar IM08.
+Por instrucción expresa de Hugo, el chat único de seguimiento posterior cubre IM01 en adelante; los chats de producción terminan al aprobar y programar. Esta ampliación sustituye la exclusividad anterior de IM06. No modificar piezas ya aprobadas. IM07 tiene producción cerrada y programación verificada; traspaso integrado en SEGUIMIENTO_POSTERIOR.md. No iniciar IM08 desde el chat de seguimiento.
 
 Registro vigente: [SEGUIMIENTO_POSTERIOR.md](publicaciones/SEGUIMIENTO_POSTERIOR.md). Consulta directa de Metricool del 9 octubre, iniciada a las 08:13 America/Mexico_City: IM01 devuelve PUBLISHED en las tres redes y enlaces públicos; Analytics devuelve filas para las tres. Pendiente aclarar dos IDs/enlaces distintos de Facebook para el mismo copy y completar comprobación pública directa/cotejo visual. No se afirma duplicado ni cierre completo. IM02–IM06: PENDING, horarios e IDs coincidentes, autoPublish true, draft false. Métricas disponibles y valores ausentes registrados con fuente y fecha. Sin cambios a piezas ni programación; sin otra automatización.
 
