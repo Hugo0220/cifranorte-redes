@@ -34,6 +34,9 @@ Este bloque sustituye cualquier instrucción histórica incompatible que aparezc
 
 GitHub es el punto compartido para imágenes, copies y revisiones. Hugo no debe descargar ni trasladar archivos entre asistentes.
 
+### Preferencia para futuras revisiones con Claude — 9 octubre 2026
+Cuando se solicite un dictamen de Claude sobre marketing orgánico de Cifranorte, abrir la revisión dentro del proyecto de Claude **«Marketing Orgánico - Cifranorte Revisión»** si está accesible en la sesión del navegador. Si el proyecto no está disponible, continuar con el flujo de revisión por navegador y comunicar dónde quedó el dictamen. Compartir únicamente los archivos y enlaces autorizados para cada revisión. Esta preferencia no cambia el estado ni la programación de IM05.
+
 ## IM02 LinkedIn — diseño listo para revisión, 6 de octubre de 2026
 
 Hugo autorizó iniciar IM02 y aprobó los textos del carrusel; esta instrucción sustituye las menciones históricas de «No iniciar IM02». Trabajo paso a paso: ahora solo diseño del carrusel LinkedIn.
