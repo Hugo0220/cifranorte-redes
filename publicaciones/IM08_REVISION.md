@@ -1,6 +1,6 @@
 # IM08 — Costos y márgenes para decidir
 
-Estado: **correcciones del primer dictamen de Claude aplicadas localmente; segunda revisión pendiente; sin aprobación de Hugo; no programada**. Fecha de preparación: 9 de octubre de 2026.
+Estado: **LinkedIn y Facebook aptos según segundo dictamen de Claude; recursos de Instagram aptos; MP4 exportado y pendiente de revisión final; sin aprobación de Hugo; no programada**. Fecha de preparación: 9 de octubre de 2026.
 
 ## Fuentes cotejadas
 
@@ -29,7 +29,7 @@ Formato: documento carrusel, siete láminas, 1080 × 1350. Medio vigente para re
 
 ## Instagram — 24 octubre 2026, horario pendiente
 
-Formato: reel corto de 26 s, vertical 1080 × 1920, entendible sin audio. `Instagram_GUION.txt` define seis escenas exactas y duración. `instagram_frame_01.png` a `instagram_frame_06.png` son los recursos maestros para montaje. Los tiempos figuran solo en el guion, nunca en pantalla. Dominio solo en el cierre, dentro del área visible. Caption: `Instagram_CAPTION.txt`. **Falta exportar MP4** antes de programar.
+Formato: reel corto de 26 s, vertical 1080 × 1920, entendible sin audio. `Instagram_GUION.txt` define seis escenas exactas y duración. `instagram_frame_01.png` a `instagram_frame_06.png` son los recursos maestros para montaje; `IM08_Instagram_reel.mp4` es el video exportado. Los tiempos figuran solo en el guion, nunca en pantalla. Dominio solo en el cierre, dentro del área visible. Caption: `Instagram_CAPTION.txt`. El MP4 marca 1080 × 1920 y 26.08 s en sus metadatos; falta dictamen de Claude sobre la reproducción final.
 
 ## Facebook — 24 octubre 2026, horario pendiente
 
@@ -39,12 +39,12 @@ Formato: texto + gráfico cuadrado 1200 × 1200. `Facebook_COPY.txt` y `IM08_Fac
 
 Paleta y tipografías del manual. Retícula Norte alinea título y cuerpo; Línea Norte guía la lectura; trayectoria segmentada indica avance del carrusel y del reel. No hay gráfica con cifras aparentes, iconografía financiera cliché, degradados ni sombras.
 
-Comprobado: siete páginas PDF; siete JPG de carrusel; seis fotogramas de reel; JPG de Facebook. Inspección visual conjunta realizada. Texto de portada, hooks y CTA cotejados con Calendario v0.1. No se ha comprobado todavía la reproducción de un MP4 ni su compatibilidad con Metricool. Primer dictamen de Claude y correcciones en `IM08_Dictamen_Claude_1.md`.
+Comprobado: siete páginas PDF; siete JPG de carrusel; seis fotogramas de reel; JPG de Facebook; MP4 de 26.08 s y 1080 × 1920. Inspección visual de las piezas fijas realizada. Texto de portada, hooks y CTA cotejados con Calendario v0.1. No se ha comprobado todavía la compatibilidad con Metricool. Dictámenes de Claude en `IM08_Dictamen_Claude_1.md` y `IM08_Dictamen_Claude_2.md`.
 
 ## Flujo pendiente
 
-1. Revisión de Claude de piezas y copys en el commit que contenga estos archivos. Registrar dictamen y correcciones si las hay.
+1. Revisión de Claude del MP4 final y verificación de lectura sin audio; registrar dictamen y correcciones si las hay.
 2. Aprobación expresa de Hugo de versiones finales y horarios por canal.
-3. Exportar reel MP4 y verificar lectura sin audio.
-4. Verificar versión única, copys exactos, medios/orden y ausencia de duplicados; programar en Metricool solo tras aprobación.
-5. Registrar commit final, dictamen, aprobación, horarios, IDs/UUIDs, estado real e incidencias; traspasar seguimiento posterior.
+3. Verificar versión única, copys exactos, medios/orden y ausencia de duplicados; programar en Metricool solo tras aprobación.
+4. Registrar commit final, dictamen, aprobación, horarios, IDs/UUIDs, estado real e incidencias; traspasar seguimiento posterior.
+
