@@ -30,23 +30,25 @@ En el Método Rumbo, Mapa establece esa referencia para dar seguimiento a los ha
 1. **Portada**
    - Etiqueta: DEL DIAGNÓSTICO A LA EJECUCIÓN
    - Titular: No puedes demostrar avance si nunca definiste desde dónde empezaste.
-   - Pie: IM06 · Línea base
+   - Pie: Línea base
 2. **Definición**
    - Titular: Una línea base es un punto de referencia.
    - Cuerpo: Registra cómo está un indicador antes de actuar. Después permite comparar su evolución.
 3. **Condición**
    - Titular: Una cifra aislada no alcanza.
-   - Cuerpo: Anota el indicador, el periodo, la fuente y la forma de cálculo. Así sabrás qué estás comparando.
+   - Tarjetas: INDICADOR · PERIODO · FUENTE · FORMA DE CÁLCULO
+   - Cierre: Así sabrás qué estás comparando.
 4. **Aplicación**
    - Titular: Ejemplo: cobranza.
-   - Cuerpo: Si eliges días promedio de cobro, registra el dato inicial y su fecha. Vuelve a medirlo con la misma fórmula.
+   - Tarjeta: Días promedio de cobro
+   - Cuerpo: Registra el dato inicial y su fecha. Vuelve a medirlo con la misma fórmula.
    - Nota: Ejemplo de indicador; no representa un resultado real.
 5. **Comparación**
    - Titular: Compara con el mismo criterio.
    - Cuerpo: Mismo indicador. Misma fórmula. Periodos comparables. Entonces podrás revisar si hubo avance y qué ajustar.
 6. **Cierre**
    - Titular: Primero, define desde dónde empiezas.
-   - Cuerpo: En Mapa, la línea base convierte el diagnóstico en una referencia para dar seguimiento.
+   - Cuerpo: En el Método Rumbo, la fase Mapa convierte el diagnóstico en una línea base para dar seguimiento.
    - CTA: ¿Qué indicador usarías como línea base hoy?
 
 ### Dirección visual
@@ -63,7 +65,7 @@ Mide el punto de partida.
 
 Indicador + periodo + forma de cálculo
 
-Después, compara con el mismo criterio.
+Después, compara el mismo indicador con el mismo criterio.
 
 Guarda esta regla.
 
@@ -86,9 +88,9 @@ Gráfico único 4:5, 1080 × 1350 px. Titular dominante, punto inicial marcado c
 | Tiempo | Texto en pantalla | Visual |
 |---|---|---|
 | 0–4 s | ¿Cómo probarías que una mejora funcionó? | Pregunta sobre fondo marino; aparece punto inicial. |
-| 4–8 s | Primero, registra cómo estás hoy. | Se traza una línea fina desde el punto inicial. |
+| 4–8 s | Primero, registra cómo estás hoy: esa es tu línea base. | Se traza una línea fina desde el punto inicial. |
 | 8–12 s | Elige un indicador, un periodo y una forma de cálculo. | Tres tarjetas de información, sin números. |
-| 12–16 s | Después, mide con el mismo criterio. | Segunda marca sobre la línea; sin sugerir resultado. |
+| 12–16 s | Después, mide el mismo indicador con el mismo criterio. | Segunda marca sobre la línea; sin sugerir resultado. |
 | 16–20 s | Identifica un indicador que puedas comparar. | Cierre con CTA y logotipo oficial. |
 
 Video diseñado para entenderse sin audio. Si se agrega voz, debe leer literalmente el texto en pantalla, en el mismo orden. No lleva música ni locución en la versión de revisión.

@@ -1,6 +1,6 @@
 # IM06 · Qué significa establecer una línea base
 
-Estado: propuesta producida y revisada técnicamente. Revisión de Claude y aprobación de Hugo pendientes. No programada ni publicada.
+Estado: propuesta producida y revisada técnicamente. Primer dictamen de Claude recibido; correcciones editoriales y visuales aplicadas. Decisión de Hugo sobre firma visual, segunda revisión y aprobación final pendientes. No programada ni publicada.
 
 ## Ficha del calendario v0.1
 
@@ -25,6 +25,14 @@ Pilar: Del diagnóstico a la ejecución. Tesis: antes de medir avance se necesit
 ## Revisión solicitada a Claude
 
 Revisar las tres piezas y sus copys contra Estrategia Editorial v0.1, Calendario Editorial v0.1, Manual de Identidad v2.1, Método Rumbo e ICP. Identificar solo correcciones necesarias y opcionales, con referencia al archivo y lámina/segundo. Examinar claridad para dueños/directores de pymes, contraste, legibilidad, fidelidad al hook y CTA, definición de línea base como referencia inicial, y comparación con el mismo indicador. No inferir aprobación de Hugo. Registrar dictamen y commit revisado aquí.
+
+### Primer dictamen, 9 de octubre de 2026
+
+Claude revisó el commit `dc1780dbbfbfcb4c5767356437cbbcec3206e5c0` y dictaminó **no apto todavía**: siete ajustes necesarios y una decisión de identidad. Dictamen íntegro: [IM06_Dictamen_Claude.md](IM06_Dictamen_Claude.md). [Hilo de Claude](https://claude.ai/epitaxy/project/chan_01PSVxPHWpw1gker4ESD36Tn?thread=cmsg_01PSVxPHWpw1gker4ESD36TnQ7xTmQXL3cuTcLDrS7eYja).
+
+Aplicado tras el dictamen: portada LinkedIn sin código interno, Mapa contextualizado en la lámina 6, guion alineado con láminas 3–4, Instagram con «mismo indicador», Facebook nombra línea base, mantiene fijo el punto inicial, introduce una segunda marca y explicita «mismo indicador». Copys de publicación intactos. Segunda revisión pendiente.
+
+Decisión pendiente de Hugo: conservar logotipo oficial en las piezas, como IM04–IM05, o seguir el acuerdo anterior de cierre sin logotipo y con dominio. Hasta resolverlo, la propuesta no es final.
 
 ## Siguientes pasos
 
