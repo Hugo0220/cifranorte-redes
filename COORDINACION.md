@@ -1,8 +1,8 @@
 # Cifranorte · Coordinación de producción y revisión
 
-## IM07 · borrador registrado — 9 octubre 2026
+## IM07 · primera revisión de Claude — 9 octubre 2026
 
-[Estado y solicitud de revisión](publicaciones/IM07_ESTADO.md). Los tres copys, el carrusel de siete JPG de Instagram, el gráfico de Facebook y el guion están registrados como borradores en GitHub. Pendientes: dictamen de Claude, posibles correcciones y aprobación expresa de Hugo. Horarios sin aprobar; nada programado en Metricool. Fechas editoriales: LinkedIn 21 de octubre; Instagram y Facebook 22 de octubre de 2026. No iniciar IM08.
+[Estado](publicaciones/IM07_ESTADO.md) y [primer dictamen](publicaciones/IM07_Dictamen_Claude_1.md). Claude declaró apto LinkedIn; Instagram y Facebook requerían correcciones. Las imágenes y el guion se corrigieron en commit `88d56311af54ff129ca51916ecef05db2b645ca6`; los tres copys permanecen intactos. Pendiente: segunda revisión de Claude sobre este commit y aprobación expresa de Hugo. Horarios sin aprobar; nada programado en Metricool. Fechas editoriales: LinkedIn 21 de octubre; Instagram y Facebook 22 de octubre de 2026. No iniciar IM08.
 
 ## Seguimiento posterior centralizado — 9 octubre 2026
 
