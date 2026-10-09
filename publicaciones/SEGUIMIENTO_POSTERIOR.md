@@ -54,3 +54,15 @@ Marca Metricool 7273818; zona America/Mexico_City. IDs / UUIDs registrados en la
 La ficha documenta una consulta directa de Metricool del 9 de octubre: tres entradas PENDING, autoPublish true, draft false, copys exactos y una entrada por canal. Este traspaso se basa en ese registro; no representa una nueva consulta a Metricool ni publicación efectiva. Los dos rechazos de estructura LinkedIn constan como resueltos sin crear entradas; no se reabren.
 
 IM07 se incorpora exclusivamente al seguimiento posterior. Sin nuevas piezas, nuevos chats de producción, cambios de programación, duplicados ni nueva automatización. No iniciar IM08 ni otras ideas madre desde este chat. Las restricciones históricas de «no iniciar IM07» significan no producirla aquí; no bloquean recibir su traspaso autorizado.
+
+## Automatización general autorizada — 9 octubre 2026, 15:45 America/Mexico_City
+
+Hugo autorizó una única automatización general de seguimiento desde IM01 en adelante. Esta autorización sustituye las restricciones históricas de no crear seguimiento/automatización.
+- Nombre: Seguimiento de publicaciones Cifranorte.
+- Referencia administrativa: `6ac96091ff9c8191adf3801dccbf7487`.
+- Activa en el chat único de seguimiento; frecuencia diaria a las 10:00, 12:00 y 19:00 America/Mexico_City; primera ejecución prevista 9 octubre 19:00. Lógica condition_watch.
+- Alcance inicial IM01–IM07; incorporar automáticamente futuras IM cerradas y programadas según main. Sin tareas por IM.
+- Consultar solo canales vencidos pendientes y novedades; capturas de métricas aproximadamente a 24 horas y 7 días cuando estén disponibles, evitando lecturas repetitivas.
+- Avisos solo ante nuevo hito de publicación, incidencia nueva/cambiada, decisión de Hugo o métricas nuevas útiles registradas. Sin cambios relevantes o métricas útiles, silencio. Evitar repetir avisos conocidos.
+- Fuentes GitHub y Metricool verificadas con lecturas satisfactorias antes de crear. Inventario de automatizaciones revisado: ninguna otra tarea activa de este propósito; una sola general activa después de la creación.
+- No modifica ni duplica piezas o programación y no inicia producción. Estado de publicaciones previo no se actualiza por haber creado la tarea.
