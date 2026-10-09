@@ -66,3 +66,20 @@ Hugo autorizó una única automatización general de seguimiento desde IM01 en a
 - Avisos solo ante nuevo hito de publicación, incidencia nueva/cambiada, decisión de Hugo o métricas nuevas útiles registradas. Sin cambios relevantes o métricas útiles, silencio. Evitar repetir avisos conocidos.
 - Fuentes GitHub y Metricool verificadas con lecturas satisfactorias antes de crear. Inventario de automatizaciones revisado: ninguna otra tarea activa de este propósito; una sola general activa después de la creación.
 - No modifica ni duplica piezas o programación y no inicia producción. Estado de publicaciones previo no se actualiza por haber creado la tarea.
+
+## Traspaso IM08 integrado — 9 octubre 2026
+
+Fuente operativa vigente: [IM08_REVISION.md](IM08_REVISION.md), PR #2 fusionado en `main` mediante commit `02b43a17d6ec649448f886e1d58008d1e75e4e2f`. Claude declaró aptas las tres piezas y Hugo aprobó las piezas y horarios finales. Versión visual/editorial aprobada: commit `c74f11606116f988d4b83ea111f04e3a609f4dcf`.
+
+| IM | LinkedIn | Instagram | Facebook | Publicación efectiva | Enlaces públicos | Métricas | Pendientes |
+|---|---|---|---|---|---|---|---|
+| IM08 | PENDING; 23 oct 2026 11:00 | PENDING; 24 oct 2026 20:00 | PENDING; 24 oct 2026 10:00 | No confirmada; fechas futuras | Pendientes; los enlaces del planificador no son enlaces públicos | Pendientes de publicación y disponibilidad | Confirmar cada salida, guardar enlace público, cotejar contenido aprobado y después registrar métricas con fuente y fecha |
+
+Marca Metricool 7273818; zona `America/Mexico_City`. IDs / UUIDs:
+- LinkedIn: `392456676` / `-8621355967532281899`; PDF.
+- Facebook: `392455739` / `3153868351232101553`; un JPG.
+- Instagram: `392466113` / `-8680810190881274646`; MP4 de 26 s.
+
+La ficha vigente documenta exactamente tres entradas, una por canal, en estado `PENDING`, `autoPublish: true`, `draft: false`, con copys cotejados contra GitHub y sin duplicados. La hora final de Instagram, 20:00, fue elegida bajo delegación expresa de Hugo tras la incidencia técnica registrada. Programadas no significa publicadas.
+
+IM08 queda incorporada exclusivamente al seguimiento posterior. No modificar las piezas aprobadas, no duplicar la programación y no iniciar IM09 desde este chat.
