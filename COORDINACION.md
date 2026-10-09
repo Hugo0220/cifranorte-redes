@@ -1,5 +1,16 @@
 # Cifranorte · Coordinación de producción y revisión
 
+## IM08 · producción cerrada y programación verificada — 9 octubre 2026
+
+[Registro vigente](publicaciones/IM08_REVISION.md). Claude declaró aptas las tres piezas y Hugo aprobó expresamente las piezas y los horarios. El PR #2 quedó fusionado en `main` mediante el commit `02b43a17d6ec649448f886e1d58008d1e75e4e2f`. Versión visual/editorial aprobada: commit `c74f11606116f988d4b83ea111f04e3a609f4dcf`.
+
+Programación verificada en Metricool, zona `America/Mexico_City`:
+- LinkedIn: 23 octubre 2026, 11:00; ID `392456676`, UUID `-8621355967532281899`; PDF.
+- Facebook: 24 octubre 2026, 10:00; ID `392455739`, UUID `3153868351232101553`; un JPG.
+- Instagram: 24 octubre 2026, 20:00; ID `392466113`, UUID `-8680810190881274646`; MP4. La hora de las 20:00 fue elegida por delegación expresa de Hugo tras la incidencia operativa documentada.
+
+Las tres entradas están `PENDING`, con `autoPublish: true` y `draft: false`; copys cotejados contra GitHub y una sola entrada por canal. Programadas no significa publicadas. El seguimiento de publicación efectiva, enlaces públicos e indicadores pasa al chat único de seguimiento posterior. No iniciar IM09 en este registro.
+
 ## Hashtags en futuras publicaciones — instrucción de Hugo, 9 octubre 2026
 
 En futuros copys de LinkedIn, Instagram y Facebook, proponer un grupo breve de hashtags específicos y pertinentes al tema y al público de Cifranorte. Como punto de partida editorial, usar 2–3 etiquetas temáticas y, cuando aporte organización de marca, `#Cifranorte`; no es una regla de rendimiento ni una garantía de alcance. Adaptar la selección a cada canal y respetar sus límites vigentes. Evitar etiquetas genéricas o tendencias ajenas al contenido, listas extensas y afirmaciones de popularidad o demanda sin comprobación.
