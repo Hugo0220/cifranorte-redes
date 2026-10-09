@@ -34,4 +34,3 @@ La numeración de cuatro fases conserva la base conceptual aprobada; la causa es
 ## Base documental
 
 Calendario Editorial v0.1, filas 25–27; Estrategia Editorial v0.1, pp. 2–4; Manual de Identidad v2.1, pp. 2–9; Método Rumbo, pp. 1, 4–5; ICP + Buyer Persona v0.1, p. 1. GitHub `Hugo0220/cifranorte-redes`, `COORDINACION.md` en `main`, consultado el 9 de octubre de 2026.
-

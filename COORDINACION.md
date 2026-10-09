@@ -1,8 +1,12 @@
 # Cifranorte · Coordinación de producción y revisión
 
+## IM07 · borrador registrado — 9 octubre 2026
+
+[Estado y solicitud de revisión](publicaciones/IM07_ESTADO.md). Los tres copys, el carrusel de siete JPG de Instagram, el gráfico de Facebook y el guion están registrados como borradores en GitHub. Pendientes: dictamen de Claude, posibles correcciones y aprobación expresa de Hugo. Horarios sin aprobar; nada programado en Metricool. Fechas editoriales: LinkedIn 21 de octubre; Instagram y Facebook 22 de octubre de 2026. No iniciar IM08.
+
 ## Seguimiento posterior centralizado — 9 octubre 2026
 
-Por instrucción expresa de Hugo, el chat único de seguimiento posterior cubre IM01 en adelante; los chats de producción terminan al aprobar y programar. Esta ampliación sustituye la exclusividad anterior de IM06. No modificar piezas aprobadas ni iniciar IM07.
+Por instrucción expresa de Hugo, el chat único de seguimiento posterior cubre IM01 en adelante; los chats de producción terminan al aprobar y programar. Esta ampliación sustituye la exclusividad anterior de IM06. No modificar piezas ya aprobadas. IM07 está en producción; no iniciar IM08.
 
 Registro vigente: [SEGUIMIENTO_POSTERIOR.md](publicaciones/SEGUIMIENTO_POSTERIOR.md). Consulta directa de Metricool del 9 octubre, iniciada a las 08:13 America/Mexico_City: IM01 devuelve PUBLISHED en las tres redes y enlaces públicos; Analytics devuelve filas para las tres. Pendiente aclarar dos IDs/enlaces distintos de Facebook para el mismo copy y completar comprobación pública directa/cotejo visual. No se afirma duplicado ni cierre completo. IM02–IM06: PENDING, horarios e IDs coincidentes, autoPublish true, draft false. Métricas disponibles y valores ausentes registrados con fuente y fecha. Sin cambios a piezas ni programación; sin otra automatización.
 
