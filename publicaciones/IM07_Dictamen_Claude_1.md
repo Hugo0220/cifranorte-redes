@@ -24,4 +24,4 @@ Fuente: [hilo «Revisión IM07 presupuesto contra real»](https://claude.ai/code
 - Facebook 01: dar más peso al CTA del pie.
 - LinkedIn: «su efecto en las prioridades del negocio» podría concretarse, pero no bloquea aprobación.
 
-Claude confirmó hooks y CTA literales, coherencia conceptual, ausencia de cifras o casos inventados, y uso de la paleta, fuentes y tamaños vigentes. Las correcciones necesarias y las opcionales de diseño citadas arriba se aplicaron en la versión local posterior al dictamen. Los tres COPY.txt siguen sin cambios.
+Claude confirmó hooks y CTA literales, coherencia conceptual, ausencia de cifras o casos inventados, y uso de la paleta, fuentes y tamaños vigentes. Las correcciones necesarias se aplicaron en la versión posterior al dictamen. También se aplicaron las precisiones de texto de Instagram 02 y 05. El espaciado de Instagram 07 y el peso del CTA de Facebook siguen como mejoras opcionales. Los tres COPY.txt siguen sin cambios.
