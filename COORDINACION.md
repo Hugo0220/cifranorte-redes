@@ -1,8 +1,14 @@
 # Cifranorte · Coordinación de producción y revisión
 
-## IM07 · dictamen de Claude apto — 9 octubre 2026
+## IM07 · producción cerrada y programación verificada — 9 octubre 2026
 
-[Estado](publicaciones/IM07_ESTADO.md), [primer dictamen](publicaciones/IM07_Dictamen_Claude_1.md) y [segundo dictamen](publicaciones/IM07_Dictamen_Claude_2.md). Claude declaró aptas las tres piezas sobre el commit visual `88d56311af54ff129ca51916ecef05db2b645ca6`, sin bloqueos. Los tres copys permanecen intactos. Hugo aprobó expresamente las tres piezas finales el 9 de octubre de 2026. Pendiente: aprobación de los horarios. Nada programado en Metricool. Fechas editoriales: LinkedIn 21 de octubre; Instagram y Facebook 22 de octubre de 2026. No iniciar IM08.
+[Estado y traspaso](publicaciones/IM07_ESTADO.md), [primer dictamen](publicaciones/IM07_Dictamen_Claude_1.md) y [dictamen final](publicaciones/IM07_Dictamen_Claude_2.md). Claude declaró aptas las tres piezas del commit visual y editorial `88d56311af54ff129ca51916ecef05db2b645ca6`; Hugo aprobó expresamente las piezas y los horarios. Programación verificada en Metricool, zona `America/Mexico_City`:
+
+- [LinkedIn, 21 octubre 11:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-4594667351892343257): ID `392399204`, UUID `-4594667351892343257`, texto.
+- [Facebook, 22 octubre 10:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-5458145865759372102): ID `392399517`, UUID `-5458145865759372102`, un JPG.
+- [Instagram, 22 octubre 18:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=6161988345075420189): ID `392399956`, UUID `6161988345075420189`, siete JPG.
+
+Las tres entradas están `PENDING`, `autoPublish: true`, `draft: false`; copys exactos y una entrada por canal. Publicación efectiva, enlaces públicos y métricas pasan al chat único de seguimiento posterior. No iniciar IM08 en este chat.
 
 ## Seguimiento posterior centralizado — 9 octubre 2026
 
