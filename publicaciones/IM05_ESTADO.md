@@ -20,7 +20,14 @@ Pilar: Criterio directivo aplicado. El calendario no determina horarios.
 - [Dictamen final de Claude](https://claude.ai/chat/d700f62d-54e3-4212-a8b3-8c78d8352a73): **apto** tras examinar la versión corregida. [Revisión Instagram](2026-10-17_instagram_IM05/REVISION.md), [LinkedIn](2026-10-16_linkedin_IM05/REVISION.md), [Facebook](2026-10-17_facebook_IM05/REVISION.md).
 - Observaciones residuales de Claude: detalles estéticos y mejoras de copy opcionales, registrados en las fichas; no se aplicaron cambios de texto.
 - Aprobación final de Hugo: concedida el 9 de octubre de 2026 para las tres piezas vigentes, incluido el carrusel con la etiqueta visual «CRITERIO DIRECTIVO APLICADO» y la paginación. No se aplican las mejoras opcionales de copy.
-- Programación: horarios de los tres canales pendientes de acordar con Hugo; IM05 no está programada. Programar únicamente después de acordarlos y verificar los registros.
+- Horarios aprobados por Hugo y programación verificada en Metricool el 9 de octubre de 2026, zona `America/Mexico_City`:
+  - [LinkedIn, 16 octubre 11:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=6725004318046636964): ID `391977623`, UUID `6725004318046636964`.
+  - [Facebook, 17 octubre 10:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=4614763071199987228): ID `391977706`, UUID `4614763071199987228`.
+  - [Instagram, 17 octubre 18:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-3278369404577495431): ID `391978048`, UUID `-3278369404577495431`, seis imágenes importadas en orden.
+- Verificación: en el rango 16–17 de octubre hay exactamente una publicación IM05 por canal; copys idénticos a GitHub, estado `PENDING`, `autoPublish: true`, `draft: false`. Programadas no significa publicadas.
 - IM01–IM04: fuera de alcance, sin modificaciones.
+
+## Traspaso breve para el chat maestro
+Objetivo y resultado: IM05 producida, aprobada por Hugo y programada en los tres canales, sin modificar IM01–IM04. Versión visual vigente de Instagram: commit `9c73226cfa65cdf3bc9fc36f76bf081499d9ed10`; copys aprobados sin cambios. Dictamen de Claude: apto. Estado real: tres publicaciones `PENDING` verificadas en Metricool, con una entrada por canal. Siguiente acción: comprobar publicación efectiva en las fechas previstas y registrar métricas cuando corresponda. Criterio de cierre de este bloque: producción, aprobación y programación verificadas; cumplido.
 
 Fundamento: Estrategia Editorial v0.1, Método Rumbo, Manual de Identidad v2.1 y COORDINACION.md.
