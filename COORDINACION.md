@@ -4,6 +4,12 @@
 
 Este bloque sustituye cualquier instrucción histórica incompatible que aparezca más abajo.
 
+- IM06: producción cerrada y programación verificada el 9 de octubre de 2026. [Estado, dictamen y traspaso](publicaciones/IM06_ESTADO.md). Hugo aprobó las tres piezas y los horarios; Claude dictaminó apto en los tres canales. Sin logotipo, dominio solo en cierres. Versión de piezas `223749d8a867f2edf6480bb1ece39b8ba12043eb`.
+  - [LinkedIn, 18 octubre 11:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=1480111207538838556): ID `392057792`, UUID `1480111207538838556`, PDF de seis páginas.
+  - [Instagram, 19 octubre 18:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-4435046230299750948): ID `392057992`, UUID `-4435046230299750948`, JPG único.
+  - [Facebook, 20 octubre 10:00](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=8151428795460043798): ID `392058117`, UUID `8151428795460043798`, MP4 de 20 segundos.
+  - Zona `America/Mexico_City`. Tres entradas `PENDING`, `autoPublish: true`, `draft: false`; copys exactos, medios verificados y una entrada por canal. Pendiente futuro: publicación efectiva y métricas. No iniciar IM07.
+
 - IM01: cerrado en producción y programación. No modificar ni duplicar sus publicaciones.
 - IM02: cerrado y verificado en Metricool el 8 de octubre de 2026. No modificar ni duplicar sus publicaciones.
   - LinkedIn: 9 octubre 2026, 09:00, ID 389804816, estado PENDING, autoPublish true, draft false.
