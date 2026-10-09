@@ -1,6 +1,6 @@
 # IM07 · Estado de producción
 
-Fecha de registro: 9 de octubre de 2026. Estado: **dictamen final de Claude apto en los tres canales; aprobación de Hugo pendiente**. Ninguna pieza de IM07 está aprobada ni programada.
+Fecha de registro: 9 de octubre de 2026. Estado: **dictamen final de Claude apto y las tres piezas aprobadas expresamente por Hugo el 9 de octubre de 2026**. La aprobación corresponde a los copys y medios vigentes del commit visual `88d56311af54ff129ca51916ecef05db2b645ca6`. IM07 no está programada.
 
 ## Versión a revisar
 
@@ -15,10 +15,10 @@ El Calendario Editorial v0.1 conserva hooks, CTA, formatos, objetivos y fechas. 
 
 ## Revisión de Claude
 
-Primer y segundo dictamen en el [hilo del proyecto](https://claude.ai/code/project/chan_01PSVxPHWpw1gker4ESD36Tn?thread=cmsg_01PSVxPHWpw1gker4ESD36TnTnhx7e4X5FJa4MPwGyHs27), sobre commits `dc7920b08eb2a926b94a66aca038374c3d5bac4e` y `88d56311af54ff129ca51916ecef05db2b645ca6`, respectivamente. Se retiraron logos y códigos internos de las piezas; se añadió `cifranorte.com` a los cierres; se corrigieron numeración, línea de avance y la frase «Compara lo planeado con lo real». Claude verificó visualmente la versión corregida y la declaró apta en los tres canales. Sus mejoras opcionales no bloquean la aprobación. Las propuestas de Claude no equivalen a aprobación de Hugo.
+Primer y segundo dictamen en el [hilo del proyecto](https://claude.ai/code/project/chan_01PSVxPHWpw1gker4ESD36Tn?thread=cmsg_01PSVxPHWpw1gker4ESD36TnTnhx7e4X5FJa4MPwGyHs27), sobre commits `dc7920b08eb2a926b94a66aca038374c3d5bac4e` y `88d56311af54ff129ca51916ecef05db2b645ca6`, respectivamente. Se retiraron logos y códigos internos de las piezas; se añadió `cifranorte.com` a los cierres; se corrigieron numeración, línea de avance y la frase «Compara lo planeado con lo real». Claude verificó visualmente la versión corregida y la declaró apta en los tres canales. Sus mejoras opcionales no bloquearon la aprobación. Hugo aprobó expresamente las tres piezas finales en el chat de producción el 9 de octubre de 2026, después de conocer el dictamen.
 
 ## Programación
 
-Fechas editoriales: LinkedIn 21 de octubre; Instagram y Facebook 22 de octubre de 2026. Horarios pendientes de aprobación. Metricool: no programado; IDs/UUIDs inexistentes. Antes de programar: aprobación expresa de Hugo, una sola versión vigente por pieza, cotejo literal de copys, confirmación de horas y revisión de duplicados.
+Fechas editoriales: LinkedIn 21 de octubre; Instagram y Facebook 22 de octubre de 2026. Horarios pendientes de aprobación expresa de Hugo. Metricool: no programado; IDs/UUIDs inexistentes. Antes de programar: una sola versión vigente por pieza, cotejo literal de copys, confirmación de horas y revisión de duplicados.
 
 Publicación efectiva, enlaces y métricas pasarán al chat único de seguimiento posterior una vez programada IM07. No iniciar IM08.
