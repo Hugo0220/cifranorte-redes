@@ -1,0 +1,5 @@
+¿Cómo probarías que una mejora funcionó?
+
+Empieza por definir una línea base: registra el indicador, el periodo y cómo lo calculaste. Después mídelo de nuevo con el mismo criterio. Solo así tendrás una comparación útil para decidir qué ajustar.
+
+Identifica un indicador que puedas comparar.

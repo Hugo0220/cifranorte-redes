@@ -4,6 +4,8 @@
 
 Este bloque sustituye cualquier instrucción histórica incompatible que aparezca más abajo.
 
+- IM06: propuesta de contenido y piezas producidas para LinkedIn, Instagram y Facebook. [Estado y solicitud de revisión](publicaciones/IM06_ESTADO.md). Dictamen de Claude, aprobación de Hugo y horarios pendientes. No programada ni publicada. No iniciar IM07.
+
 - IM01: cerrado en producción y programación. No modificar ni duplicar sus publicaciones.
 - IM02: cerrado y verificado en Metricool el 8 de octubre de 2026. No modificar ni duplicar sus publicaciones.
   - LinkedIn: 9 octubre 2026, 09:00, ID 389804816, estado PENDING, autoPublish true, draft false.
