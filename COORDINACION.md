@@ -1,6 +1,6 @@
 # Cifranorte · Coordinación de producción y revisión
 
-## Estado vigente — 8 de octubre de 2026
+## Estado vigente — 9 de octubre de 2026
 
 Este bloque sustituye cualquier instrucción histórica incompatible que aparezca más abajo.
 
@@ -22,7 +22,7 @@ Este bloque sustituye cualquier instrucción histórica incompatible que aparezc
   - Facebook: 15 octubre, 10:00; ID 391341226, UUID -7618421332277180287; [planificador](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-7618421332277180287).
   - Instagram Reel: 15 octubre, 18:00; ID 391341435, UUID -553394475970705745; [planificador](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-553394475970705745).
   - Las tres: estado PENDING, autoPublish true, draft false; copies idénticos a los aprobados; un medio importado por pieza; exactamente una publicación IM04 por canal en el rango revisado. Programadas no significa publicadas. [Fichas de LinkedIn](publicaciones/2026-10-14_linkedin_IM04/REVISION.md), [Instagram](publicaciones/2026-10-15_instagram_IM04/REVISION.md) y [Facebook](publicaciones/2026-10-15_facebook_IM04/REVISION.md).
-- IM05: ficha confirmada en el Calendario Editorial v0.1. LinkedIn 16 octubre (texto), Instagram 17 octubre (carrusel), Facebook 17 octubre (texto); sin horarios acordados. Hugo aprobó los textos y autorizó registrarlos en GitHub el 8 de octubre. Carrusel Instagram producido y revisado por ChatGPT; commit visual `fe0d16f9218880bb625b7daf94e7344a4d1331f2`. [Estado IM05](publicaciones/IM05_ESTADO.md) y fichas de [LinkedIn](publicaciones/2026-10-16_linkedin_IM05/REVISION.md), [Instagram](publicaciones/2026-10-17_instagram_IM05/REVISION.md) y [Facebook](publicaciones/2026-10-17_facebook_IM05/REVISION.md). Dictamen de Claude, posibles correcciones y aprobación final de Hugo pendientes. **No programar IM05 hasta aprobar piezas finales y acordar horarios.** No modificar IM01–IM04.
+- IM05: ficha confirmada en el Calendario Editorial v0.1. LinkedIn 16 octubre (texto), Instagram 17 octubre (carrusel), Facebook 17 octubre (texto); sin horarios acordados. Hugo aprobó los textos y autorizó registrarlos en GitHub; permanecen intactos. Carrusel Instagram corregido tras primer dictamen de Claude, revisado visual y técnicamente; versión vigente en los mismos archivos, commit `9c73226cfa65cdf3bc9fc36f76bf081499d9ed10`. [Dictamen final de Claude: apto](https://claude.ai/chat/d700f62d-54e3-4212-a8b3-8c78d8352a73). [Estado IM05](publicaciones/IM05_ESTADO.md) y fichas de [LinkedIn](publicaciones/2026-10-16_linkedin_IM05/REVISION.md), [Instagram](publicaciones/2026-10-17_instagram_IM05/REVISION.md) y [Facebook](publicaciones/2026-10-17_facebook_IM05/REVISION.md). Aprobación final de Hugo y horarios pendientes; no programado. **No programar IM05 hasta aprobar piezas finales y acordar horarios.** No modificar IM01–IM04.
 - Pendiente posterior a publicación: registrar métricas de IM02 e IM03 para aprendizaje Lean Startup.
 
 ### Regla operativa vigente
