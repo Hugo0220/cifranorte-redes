@@ -6,7 +6,7 @@ Estado: **producción preparada para revisión; sin dictamen de Claude ni aproba
 
 - Estrategia Editorial Cifranorte v0.1, pp. 2–4.
 - Calendario Editorial Cifranorte v0.1, p. 4, filas IM08.
-- Manual de identidad Cifranorte v1, pp. 1–5.
+- Manual de identidad Cifranorte v2.1, pp. 1–8 y 10.
 - Método Rumbo, pp. 2–4.
 - ICP + Buyer Persona, Business Model Canvas, Value Proposition Canvas, Lean Startup y 1-Page Marketing Plan v0.1.
 - `COORDINACION.md` del repositorio: flujo, versión única y hashtags prospectivos.
@@ -48,3 +48,4 @@ Comprobado: siete páginas PDF; siete JPG de carrusel; seis fotogramas de reel; 
 3. Exportar reel MP4 y verificar lectura sin audio.
 4. Verificar versión única, copys exactos, medios/orden y ausencia de duplicados; programar en Metricool solo tras aprobación.
 5. Registrar commit final, dictamen, aprobación, horarios, IDs/UUIDs, estado real e incidencias; traspasar seguimiento posterior.
+
