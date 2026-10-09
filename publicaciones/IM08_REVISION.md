@@ -57,17 +57,16 @@ Marca Metricool `cifranorte.mx`, blogId `7273818`, zona `America/Mexico_City`. A
 
 Incidencia resuelta: al crear el reel solicitando las 18:00 aprobadas inicialmente, Metricool devolvió 20:00. Dos actualizaciones con las 18:00 volvieron a devolver 20:00; cada actualización cambió el ID, pero conservó el UUID y el mismo medio. Un intento de corregir con un valor intermedio de 16:00 fue rechazado por revisión automática y no se ejecutó. Se desactivó temporalmente la autopublicación. Ante la elección delegada por Hugo («Decide por mi»), se eligieron las 20:00 para Instagram. Una primera activación fue rechazada porque la solicitud técnica de 18:00 no coincidía con la elección documentada de 20:00. Hugo autorizó expresamente usar esa solicitud técnica, verificar el resultado y fusionar el PR. La activación posterior quedó a las 20:00, `autoPublish: true`, `draft: false`, mismo UUID y medio, con ID nuevo `392466113`. Consulta final: exactamente tres entradas, una por canal, sin duplicados; los tres copys coinciden literalmente con GitHub salvo el salto de línea final; PDF, MP4 y JPG correctos.
 
-Registro GitHub: [PR #2](https://github.com/Hugo0220/cifranorte-redes/pull/2), rama `im08-revision`. La revisión automática rechazó una primera fusión a `main` al considerar que la aprobación de piezas y horarios no autorizaba expresamente esa mutación. Hugo la autorizó expresamente después. Integración final a `main`: pendiente de ejecutar al momento de esta actualización; consignar el commit de fusión en el historial del PR.
+Registro GitHub: [PR #2](https://github.com/Hugo0220/cifranorte-redes/pull/2), rama `im08-revision`, integrado en `main` mediante el commit `02b43a17d6ec649448f886e1d58008d1e75e4e2f`. La revisión automática rechazó una primera fusión al considerar que la aprobación de piezas y horarios no autorizaba expresamente esa mutación. Hugo la autorizó expresamente después; la fusión se completó.
 
 ## Flujo pendiente
 
-1. Fusionar el PR #2 en `main` con la autorización expresa de Hugo y comprobar el commit de fusión.
-2. Traspasar al chat único de seguimiento posterior la comprobación futura de publicación efectiva, enlaces públicos y métricas. No realizar ese seguimiento ni iniciar IM09 en este chat.
+1. Traspasar al chat único de seguimiento posterior la comprobación futura de publicación efectiva, enlaces públicos y métricas. No realizar ese seguimiento ni iniciar IM09 en este chat.
 
 ## Traspaso breve al seguimiento posterior
 
 - Aprobado por Hugo: tres piezas finales. Horarios finales en `America/Mexico_City`: LinkedIn 23 octubre 11:00; Facebook 24 octubre 10:00; Instagram 24 octubre 20:00. La hora de Instagram fue elegida bajo delegación de Hugo, y este autorizó expresamente la activación técnica.
-- Versión de piezas aprobada: `c74f11606116f988d4b83ea111f04e3a609f4dcf` en `im08-revision`; registro operativo e integración final por PR #2. Dictamen de Claude: apto en los tres canales; archivos `IM08_Dictamen_Claude_1.md` a `_3.md` y [hilo de revisión](https://claude.ai/code/project/chan_01PSVxPHWpw1gker4ESD36Tn?thread=cmsg_01PSVxPHWpw1gker4ESD36TnVCuigYgqxMgmE3qoddXM1P).
+- Versión de piezas aprobada: `c74f11606116f988d4b83ea111f04e3a609f4dcf` en `im08-revision`; registro operativo integrado a `main` por PR #2, commit de fusión `02b43a17d6ec649448f886e1d58008d1e75e4e2f`. Dictamen de Claude: apto en los tres canales; archivos `IM08_Dictamen_Claude_1.md` a `_3.md` y [hilo de revisión](https://claude.ai/code/project/chan_01PSVxPHWpw1gker4ESD36Tn?thread=cmsg_01PSVxPHWpw1gker4ESD36TnVCuigYgqxMgmE3qoddXM1P).
 - IDs y UUIDs: tabla de programación anterior. Estado real al 9 octubre: tres entradas `PENDING`, `autoPublish: true`, `draft: false`; todavía no publicadas.
 - Incidencia: desfase de dos horas en la operación del reel de Instagram, resuelto con elección y autorización expresa de Hugo; actualizaciones cambiaron el ID pero no el UUID. No hubo duplicados.
 - Pendiente futuro: confirmar publicación efectiva en las fechas previstas, guardar enlaces públicos y registrar métricas cuando estén disponibles, exclusivamente en el chat único de seguimiento posterior.
