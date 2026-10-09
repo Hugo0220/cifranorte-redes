@@ -1,7 +1,7 @@
 # Seguimiento posterior de publicaciones · Cifranorte
 
 ## Alcance vigente
-Por instrucción expresa de Hugo del 9 de octubre de 2026, el chat único de seguimiento posterior cubre IM01 en adelante. Los chats de producción terminan al aprobar y programar cada IM. No modificar piezas aprobadas, crear duplicados, iniciar ideas madre ni iniciar IM07. No se creó otra automatización.
+Por instrucción expresa de Hugo del 9 de octubre de 2026, el chat único de seguimiento posterior cubre IM01 en adelante. Los chats de producción terminan al aprobar y programar cada IM. No modificar piezas aprobadas, crear duplicados, iniciar ideas madre. No se creó otra automatización.
 
 Antes de actualizar estados, cotejar main, COORDINACION.md y las fichas o estados de cada IM. Confirmar publicación efectiva con evidencia positiva y conservar enlace público; desaparecer del planificador no basta. Comparar contenido cuando sea posible. Registrar métricas disponibles con fuente y fecha; valores ausentes no son ceros. Avisar solo por confirmación, falla, diferencia, duplicado, decisión pendiente o cierre; sin cambios relevantes, silencio. Una IM con sus tres publicaciones verificadas pasa a seguimiento de métricas; no cerrar verificaciones pendientes como si fueran métricas.
 
@@ -37,3 +37,20 @@ Fuente Metricool Analytics, consulta 9 octubre 2026, en la revisión iniciada a 
 - Sin estimaciones, conversiones, métricas agregadas entre redes ni sustitución de null por 0.
 
 IM01 no queda cerrada con únicamente métricas pendientes: falta resolver la identidad Facebook y el cotejo directo/visual. No se detectó falla explícita en los estados recibidos.
+
+## Traspaso IM07 integrado — 9 octubre 2026, 15:24 America/Mexico_City
+
+Fuente operativa cotejada en main: commit `ee27684cfd11baca09570fd4862cd7b2ae461afd`, COORDINACION.md y [IM07_ESTADO.md](IM07_ESTADO.md). Producción cerrada, dictamen final de Claude apto y aprobación de Hugo registrados. Versión aprobada de piezas: `88d56311af54ff129ca51916ecef05db2b645ca6`.
+
+| IM | LinkedIn | Instagram | Facebook | Publicación efectiva | Enlaces públicos | Métricas | Pendientes |
+|---|---|---|---|---|---|---|---|
+| IM07 | PENDING; 21 oct 2026 11:00 | PENDING; 22 oct 2026 18:00 | PENDING; 22 oct 2026 10:00 | No confirmada; fechas futuras | Pendientes; los enlaces del planificador no son enlaces públicos | Pendientes de publicación y disponibilidad | Confirmar cada salida, guardar enlace público, cotejar contenido aprobado y después registrar métricas con fuente y fecha |
+
+Marca Metricool 7273818; zona America/Mexico_City. IDs / UUIDs registrados en la fuente:
+- LinkedIn: 392399204 / -4594667351892343257; texto.
+- Facebook: 392399517 / -5458145865759372102; un JPG.
+- Instagram: 392399956 / 6161988345075420189; siete JPG en orden 01–07.
+
+La ficha documenta una consulta directa de Metricool del 9 de octubre: tres entradas PENDING, autoPublish true, draft false, copys exactos y una entrada por canal. Este traspaso se basa en ese registro; no representa una nueva consulta a Metricool ni publicación efectiva. Los dos rechazos de estructura LinkedIn constan como resueltos sin crear entradas; no se reabren.
+
+IM07 se incorpora exclusivamente al seguimiento posterior. Sin nuevas piezas, nuevos chats de producción, cambios de programación, duplicados ni nueva automatización. No iniciar IM08 ni otras ideas madre desde este chat. Las restricciones históricas de «no iniciar IM07» significan no producirla aquí; no bloquean recibir su traspaso autorizado.
