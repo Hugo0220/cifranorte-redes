@@ -19,8 +19,8 @@ Pilar: Criterio directivo aplicado. El calendario no determina horarios.
 - Revisión visual y técnica de ChatGPT: realizada. Claude pidió corregir el contraste de numerales grandes en la primera versión; la corrección fue visual, sin alterar textos.
 - [Dictamen final de Claude](https://claude.ai/chat/d700f62d-54e3-4212-a8b3-8c78d8352a73): **apto** tras examinar la versión corregida. [Revisión Instagram](2026-10-17_instagram_IM05/REVISION.md), [LinkedIn](2026-10-16_linkedin_IM05/REVISION.md), [Facebook](2026-10-17_facebook_IM05/REVISION.md).
 - Observaciones residuales de Claude: detalles estéticos y mejoras de copy opcionales, registrados en las fichas; no se aplicaron cambios de texto.
-- Aprobación final de Hugo: pendiente, incluida su conformidad con la etiqueta visual «CRITERIO DIRECTIVO APLICADO» y paginación.
-- Programación: **no autorizada** hasta la aprobación final de las piezas y acuerdo de horarios. IM05 no está programada.
+- Aprobación final de Hugo: concedida el 9 de octubre de 2026 para las tres piezas vigentes, incluido el carrusel con la etiqueta visual «CRITERIO DIRECTIVO APLICADO» y la paginación. No se aplican las mejoras opcionales de copy.
+- Programación: horarios de los tres canales pendientes de acordar con Hugo; IM05 no está programada. Programar únicamente después de acordarlos y verificar los registros.
 - IM01–IM04: fuera de alcance, sin modificaciones.
 
 Fundamento: Estrategia Editorial v0.1, Método Rumbo, Manual de Identidad v2.1 y COORDINACION.md.
