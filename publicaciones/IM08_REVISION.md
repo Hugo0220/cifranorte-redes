@@ -1,6 +1,6 @@
 # IM08 — Costos y márgenes para decidir
 
-Estado: **tres canales aptos según dictámenes de Claude; Hugo aprobó expresamente las tres piezas y los horarios el 9 de octubre de 2026; programación pendiente**. Fecha de preparación: 9 de octubre de 2026.
+Estado: **Hugo aprobó las tres piezas y horarios el 9 de octubre de 2026; LinkedIn y Facebook programados; Instagram quedó en borrador sin autopublicación por un desfase de hora en Metricool; IM08 aún no está cerrada**. Fecha de preparación: 9 de octubre de 2026.
 
 ## Fuentes cotejadas
 
@@ -43,10 +43,25 @@ Comprobado: siete páginas PDF; siete JPG de carrusel; seis fotogramas de reel; 
 
 ## Horarios propuestos para aprobación
 
-Zona: `America/Mexico_City`. Propuesta basada en los horarios aprobados y programados de IM07: LinkedIn, 23 de octubre a las 11:00; Facebook, 24 de octubre a las 10:00; Instagram, 24 de octubre a las 18:00. Hugo aprobó expresamente esta propuesta y las tres piezas en el chat de producción el 9 de octubre de 2026, tras recibir el dictamen de Claude y los enlaces de revisión. Versión visual/editorial aprobada: commit `c74f11606116f988d4b83ea111f04e3a609f4dcf` de la rama `im08-revision`. Aún no se ha programado.
+Zona: `America/Mexico_City`. Propuesta basada en los horarios aprobados y programados de IM07: LinkedIn, 23 de octubre a las 11:00; Facebook, 24 de octubre a las 10:00; Instagram, 24 de octubre a las 18:00. Hugo aprobó expresamente esta propuesta y las tres piezas en el chat de producción el 9 de octubre de 2026, tras recibir el dictamen de Claude y los enlaces de revisión. Versión visual/editorial aprobada: commit `c74f11606116f988d4b83ea111f04e3a609f4dcf` de la rama `im08-revision`.
+
+## Programación y verificación — 9 octubre 2026
+
+Marca Metricool `cifranorte.mx`, blogId `7273818`, zona `America/Mexico_City`. Antes de crear las entradas, el calendario del 23–24 de octubre estaba vacío. Tras las operaciones hay exactamente tres entradas, una por canal. Los tres textos en Metricool coinciden literalmente con los `COPY.txt` aprobados en GitHub, salvo el salto de línea final del archivo. LinkedIn tiene un PDF, Facebook un JPG y el reel de Instagram un MP4; no se observan medios adicionales ni duplicados.
+
+| Canal | Hora registrada en Metricool | ID actual | UUID | Estado real |
+|---|---|---:|---:|---|
+| [LinkedIn](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-8621355967532281899) | 23 octubre, 11:00 | 392456676 | -8621355967532281899 | `PENDING`, `autoPublish: true`, `draft: false` |
+| [Facebook](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=3153868351232101553) | 24 octubre, 10:00 | 392455739 | 3153868351232101553 | `PENDING`, `autoPublish: true`, `draft: false` |
+| [Instagram](https://app.metricool.com/planner/calendar?blogId=7273818&openWithPostUuid=-8680810190881274646) | 24 octubre, **20:00**, horario incorrecto | 392458352 | -8680810190881274646 | `PENDING`, `autoPublish: false`, `draft: true` |
+
+Incidencia: al crear el reel solicitando las 18:00 aprobadas, Metricool devolvió 20:00. Dos actualizaciones con las 18:00 volvieron a devolver 20:00; cada actualización cambió el ID, pero conservó el UUID y el mismo medio. Un intento de corregir con un valor intermedio de 16:00 fue rechazado por revisión automática porque ese valor no estaba aprobado; no se ejecutó. Se desactivó la autopublicación y se dejó el reel en borrador para impedir una publicación automática a las 20:00. No se debe activar ni considerar programado Instagram hasta confirmar las 18:00 en Metricool o recibir un nuevo horario aprobado de Hugo.
+
+Registro GitHub: [PR #2](https://github.com/Hugo0220/cifranorte-redes/pull/2), rama `im08-revision`. La revisión automática rechazó fusionarlo a `main` al considerar que la aprobación de piezas y horarios no autorizaba expresamente esa mutación de la rama principal. `main` no se modificó.
 
 ## Flujo pendiente
 
-1. Verificar versión única, copys exactos, medios/orden y ausencia de duplicados; programar en Metricool.
-2. Registrar commit final, dictamen, aprobación, horarios, IDs/UUIDs, estado real e incidencias; traspasar seguimiento posterior.
+1. Corregir y confirmar en Metricool la hora de Instagram a las 18:00 aprobadas, o recibir de Hugo aprobación expresa de un horario distinto. Activar autopublicación solo cuando la hora sea correcta; volver a verificar entrada única, medio y copy.
+2. Obtener autorización expresa para integrar el PR en `main`; registrar allí el estado final y el ID actualizado si cambia.
+3. Una vez programados los tres canales, dejar el traspaso breve al chat único de seguimiento posterior con fechas, horas, IDs/UUIDs, estado real e incidencias. No avanzar a IM09 en este chat.
 
