@@ -50,10 +50,11 @@ En el Método Rumbo, Mapa establece esa referencia para dar seguimiento a los ha
    - Titular: Primero, define desde dónde empiezas.
    - Cuerpo: En el Método Rumbo, la fase Mapa convierte el diagnóstico en una línea base para dar seguimiento.
    - CTA: ¿Qué indicador usarías como línea base hoy?
+   - Firma discreta: cifranorte.com
 
 ### Dirección visual
 
-Formato vertical 4:5, 1080 × 1350 px por lámina, más PDF multipágina para publicar como documento. Editorial sobrio: marino `#13233A`, papel `#F3F4F1`, dorado `#C9A45C` solo como acento; titulares Source Serif 4 y texto Public Sans. Secuencia visual de un punto inicial a una comparación posterior. Usar Línea Norte, contenedores limpios y trayectorias simples. Ninguna gráfica simula datos reales. Logotipo oficial con área de protección. La portada usa el hook literal y la última lámina cierra con la pregunta aprobada.
+Formato vertical 4:5, 1080 × 1350 px por lámina, más PDF multipágina para publicar como documento. Editorial sobrio: marino `#13233A`, papel `#F3F4F1`, dorado `#C9A45C` solo como acento; titulares Source Serif 4 y texto Public Sans. Secuencia visual de un punto inicial a una comparación posterior. Usar Línea Norte, contenedores limpios y trayectorias simples. Ninguna gráfica simula datos reales. Sin logotipo; `cifranorte.com` aparece solo en la última lámina. La portada usa el hook literal y la última lámina cierra con la pregunta aprobada.
 
 ## Instagram · gráfico único
 
@@ -69,6 +70,8 @@ Después, compara el mismo indicador con el mismo criterio.
 
 Guarda esta regla.
 
+cifranorte.com
+
 ### Caption exacto
 
 Antes de mejorar, mide el punto de partida.
@@ -79,7 +82,7 @@ Guarda esta regla.
 
 ### Dirección visual
 
-Gráfico único 4:5, 1080 × 1350 px. Titular dominante, punto inicial marcado con una Línea Norte dorada y una segunda marca de comparación sin valores. Etiquetas precisas y amplio espacio en blanco. Sin barras de crecimiento ni porcentajes inventados.
+Gráfico único 4:5, 1080 × 1350 px. Titular dominante, punto inicial marcado con una Línea Norte dorada y una segunda marca de comparación sin valores. Etiquetas precisas y amplio espacio en blanco. Sin barras de crecimiento ni porcentajes inventados. Sin logotipo; `cifranorte.com` aparece discretamente en el pie de la pieza.
 
 ## Facebook · video corto
 
@@ -91,7 +94,7 @@ Gráfico único 4:5, 1080 × 1350 px. Titular dominante, punto inicial marcado c
 | 4–8 s | Primero, registra cómo estás hoy: esa es tu línea base. | Se traza una línea fina desde el punto inicial. |
 | 8–12 s | Elige un indicador, un periodo y una forma de cálculo. | Tres tarjetas de información, sin números. |
 | 12–16 s | Después, mide el mismo indicador con el mismo criterio. | Segunda marca sobre la línea; sin sugerir resultado. |
-| 16–20 s | Identifica un indicador que puedas comparar. | Cierre con CTA y logotipo oficial. |
+| 16–20 s | Identifica un indicador que puedas comparar. | Cierre con CTA y `cifranorte.com`. |
 
 Video diseñado para entenderse sin audio. Si se agrega voz, debe leer literalmente el texto en pantalla, en el mismo orden. No lleva música ni locución en la versión de revisión.
 
@@ -105,7 +108,7 @@ Identifica un indicador que puedas comparar.
 
 ### Dirección visual
 
-Video vertical 9:16, 1080 × 1920 px, 20 segundos, H.264 MP4. Animación tipográfica discreta y trayectoria ortogonal. Marino y superficie clara; dorado solo en puntos y línea. Sin datos ficticios, gráficos de rendimiento ni fotografía que aparente un caso real.
+Video vertical 9:16, 1080 × 1920 px, 20 segundos, H.264 MP4. Animación tipográfica discreta y trayectoria ortogonal. Marino y superficie clara; dorado solo en puntos y línea. Sin datos ficticios, gráficos de rendimiento ni fotografía que aparente un caso real. Sin logotipo; `cifranorte.com` aparece solo en la escena final.
 
 ## Fuentes cotejadas
 

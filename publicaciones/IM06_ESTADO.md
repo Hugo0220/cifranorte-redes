@@ -1,6 +1,6 @@
 # IM06 · Qué significa establecer una línea base
 
-Estado: propuesta producida y revisada técnicamente. Primer dictamen de Claude recibido; correcciones editoriales y visuales aplicadas. Decisión de Hugo sobre firma visual, segunda revisión y aprobación final pendientes. No programada ni publicada.
+Estado: propuesta producida y revisada técnicamente. Primer dictamen de Claude recibido; correcciones editoriales y visuales aplicadas. Hugo decidió «Sin logo»; las piezas usan `cifranorte.com` solo en su cierre. Segunda revisión de Claude y aprobación final de Hugo pendientes. No programada ni publicada.
 
 ## Ficha del calendario v0.1
 
@@ -18,7 +18,7 @@ Pilar: Del diagnóstico a la ejecución. Tesis: antes de medir avance se necesit
 - Instagram: `01.jpg`, `COPY.txt`.
 - Facebook: video vertical MP4 de 20 segundos sin audio, vista conjunta y `COPY.txt`.
 - Guion, textos exactos, dirección visual y fuentes: `IM06_Guion_Editorial.md` del bloque de producción local. El texto visible en cada archivo coincide con el guion.
-- Manual vigente: Cifranorte v2.1, octubre 2026. Producción con fuentes y logotipo oficiales.
+- Manual vigente: Cifranorte v2.1, octubre 2026. Producción con fuentes y paleta oficiales, sin logotipo por decisión expresa de Hugo.
 - Control editorial: sin estadísticas, resultados, testimonios, casos reales ni promesas; el ejemplo de cobranza es solo un indicador.
 - QA inicial: seis imágenes LinkedIn y una Instagram a 1080 × 1350; PDF de seis páginas; video H.264 1080 × 1920, 20 s, 12 fps; vistas conjuntas revisadas. El video se entiende sin audio.
 
@@ -32,11 +32,11 @@ Claude revisó el commit `dc1780dbbfbfcb4c5767356437cbbcec3206e5c0` y dictaminó
 
 Aplicado tras el dictamen: portada LinkedIn sin código interno, Mapa contextualizado en la lámina 6, guion alineado con láminas 3–4, Instagram con «mismo indicador», Facebook nombra línea base, mantiene fijo el punto inicial, introduce una segunda marca y explicita «mismo indicador». Copys de publicación intactos. Segunda revisión pendiente.
 
-Decisión pendiente de Hugo: conservar logotipo oficial en las piezas, como IM04–IM05, o seguir el acuerdo anterior de cierre sin logotipo y con dominio. Hasta resolverlo, la propuesta no es final.
+Hugo eligió la segunda opción: sin logotipo y con `cifranorte.com` en el cierre. Se retiró la marca de todas las láminas y escenas previas y se generaron de nuevo PDF, JPG y MP4. La propuesta requiere segunda revisión de Claude y aprobación final de Hugo.
 
 ## Siguientes pasos
 
-1. Dictamen de Claude y correcciones necesarias.
+1. Segunda revisión de Claude y correcciones necesarias.
 2. Aprobación expresa de Hugo de las versiones finales y de fecha/hora de cada canal.
 3. Antes de Metricool: verificar versión única vigente, copys exactos de GitHub, horas y ausencia de duplicados.
 4. Tras programación: comprobar IDs/UUIDs, estado real, medios y copys; registrar commit y traspaso al chat maestro.
