@@ -1,5 +1,11 @@
 # Cifranorte · Coordinación de producción y revisión
 
+## Preferencia de Hugo para cierres y traspasos — 9 octubre 2026
+
+Al cerrar cada bloque de producción de marketing orgánico de Cifranorte, entregar **dos prompts breves y listos para copiar**, en bloques de código: uno para «Chat Maestro Marketing Digital Organico - Cifranorte» y otro para «Seguimiento de publicaciones - Cifranorte». El primero comunica resultado, aprobación, versión vigente, estado y siguiente bloque; el segundo transfiere únicamente programación/publicación efectiva, enlaces, incidencias y métricas que correspondan. Dar un paso a la vez; si Hugo pide «qué sigue», responder con un solo paso. Si pide «resumen de pendientes», presentar entonces el conjunto de pendientes.
+
+Antes de redactar esos prompts, consultar este registro operativo y, cuando haga falta contexto sobre cómo se ha trabajado, los dos chats existentes del mismo proyecto. Chat maestro: `6ac17816-8068-83e8-8fb8-5b038c2e55f5`; seguimiento: `6ac8f412-5910-83e8-8ef0-6cffad3cc7db`. Consultarlos es lectura de contexto; no enviarles mensajes sin autorización expresa de Hugo. No abrir nuevos chats por inferencia. El registro vigente de cada pieza en GitHub prevalece sobre mensajes antiguos de esos chats.
+
 ## IM07 · producción cerrada y programación verificada — 9 octubre 2026
 
 [Estado y traspaso](publicaciones/IM07_ESTADO.md), [primer dictamen](publicaciones/IM07_Dictamen_Claude_1.md) y [dictamen final](publicaciones/IM07_Dictamen_Claude_2.md). Claude declaró aptas las tres piezas del commit visual y editorial `88d56311af54ff129ca51916ecef05db2b645ca6`; Hugo aprobó expresamente las piezas y los horarios. Programación verificada en Metricool, zona `America/Mexico_City`:
