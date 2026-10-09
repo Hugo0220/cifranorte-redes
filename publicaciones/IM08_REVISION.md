@@ -1,6 +1,6 @@
 # IM08 — Costos y márgenes para decidir
 
-Estado: **tres canales aptos según dictámenes de Claude; pendiente de aprobación expresa de Hugo y de horarios; no programada**. Fecha de preparación: 9 de octubre de 2026.
+Estado: **tres canales aptos según dictámenes de Claude; Hugo aprobó expresamente las tres piezas y los horarios el 9 de octubre de 2026; programación pendiente**. Fecha de preparación: 9 de octubre de 2026.
 
 ## Fuentes cotejadas
 
@@ -43,11 +43,10 @@ Comprobado: siete páginas PDF; siete JPG de carrusel; seis fotogramas de reel; 
 
 ## Horarios propuestos para aprobación
 
-Zona: `America/Mexico_City`. Propuesta basada en los horarios aprobados y programados de IM07: LinkedIn, 23 de octubre a las 11:00; Facebook, 24 de octubre a las 10:00; Instagram, 24 de octubre a las 18:00. Ninguno de estos horarios está aprobado para IM08 ni programado.
+Zona: `America/Mexico_City`. Propuesta basada en los horarios aprobados y programados de IM07: LinkedIn, 23 de octubre a las 11:00; Facebook, 24 de octubre a las 10:00; Instagram, 24 de octubre a las 18:00. Hugo aprobó expresamente esta propuesta y las tres piezas en el chat de producción el 9 de octubre de 2026, tras recibir el dictamen de Claude y los enlaces de revisión. Versión visual/editorial aprobada: commit `c74f11606116f988d4b83ea111f04e3a609f4dcf` de la rama `im08-revision`. Aún no se ha programado.
 
 ## Flujo pendiente
 
-1. Aprobación expresa de Hugo de versiones finales y horarios por canal.
-2. Verificar versión única, copys exactos, medios/orden y ausencia de duplicados; programar en Metricool solo tras aprobación.
-3. Registrar commit final, dictamen, aprobación, horarios, IDs/UUIDs, estado real e incidencias; traspasar seguimiento posterior.
+1. Verificar versión única, copys exactos, medios/orden y ausencia de duplicados; programar en Metricool.
+2. Registrar commit final, dictamen, aprobación, horarios, IDs/UUIDs, estado real e incidencias; traspasar seguimiento posterior.
 
