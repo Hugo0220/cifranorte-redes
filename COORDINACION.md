@@ -1,5 +1,13 @@
 # Cifranorte · Coordinación de producción y revisión
 
+## Hashtags en futuras publicaciones — instrucción de Hugo, 9 octubre 2026
+
+En futuros copys de LinkedIn, Instagram y Facebook, proponer un grupo breve de hashtags específicos y pertinentes al tema y al público de Cifranorte. Como punto de partida editorial, usar 2–3 etiquetas temáticas y, cuando aporte organización de marca, `#Cifranorte`; no es una regla de rendimiento ni una garantía de alcance. Adaptar la selección a cada canal y respetar sus límites vigentes. Evitar etiquetas genéricas o tendencias ajenas al contenido, listas extensas y afirmaciones de popularidad o demanda sin comprobación.
+
+Incluir los hashtags en el copy que se envía a revisión de Claude y aprobación final de Hugo, antes de programar. Son parte del texto aprobado; no añadirlos después por inferencia. Ejemplos temáticos, sin demanda verificada: cobranza — `#Cobranza #FlujoDeEfectivo #FinanzasParaPymes`; presupuesto contra real — `#Presupuesto #ControlFinanciero #GestionEmpresarial`.
+
+Aplicación prospectiva: IM01–IM07 conservan sus copys y publicaciones aprobadas/programadas sin cambios. Para cualquier otra pieza ya aprobada, una incorporación requiere autorización expresa de Hugo. El chat de seguimiento no produce nuevas ideas madre. Registrar únicamente métricas disponibles, sin atribuir causalmente los resultados a los hashtags sin evidencia.
+
 ## Preferencia de Hugo para cierres y traspasos — 9 octubre 2026
 
 Al cerrar cada bloque de producción de marketing orgánico de Cifranorte, entregar **dos prompts breves y listos para copiar**, en bloques de código: uno para «Chat Maestro Marketing Digital Organico - Cifranorte» y otro para «Seguimiento de publicaciones - Cifranorte». El primero comunica resultado, aprobación, versión vigente, estado y siguiente bloque; el segundo transfiere únicamente programación/publicación efectiva, enlaces, incidencias y métricas que correspondan. Dar un paso a la vez; si Hugo pide «qué sigue», responder con un solo paso. Si pide «resumen de pendientes», presentar entonces el conjunto de pendientes.
