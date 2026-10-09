@@ -4,20 +4,19 @@
 - Pieza: carrusel de seis láminas, [01.jpg](01.jpg)–[06.jpg](06.jpg).
 - Vista de conjunto: [IM05_Instagram_Vista_Conjunta.jpg](IM05_Instagram_Vista_Conjunta.jpg).
 - PDF de revisión: [IM05_Instagram_Carrusel.pdf](IM05_Instagram_Carrusel.pdf).
-- Textos aprobados por Hugo: [TEXTOS_APROBADOS.txt](TEXTOS_APROBADOS.txt) y [COPY.txt](COPY.txt).
-- Commit de archivos visuales que debe revisar Claude: `fe0d16f9218880bb625b7daf94e7344a4d1331f2`.
-- No hay versiones alternativas vigentes en esta carpeta.
+- Textos aprobados por Hugo: [TEXTOS_APROBADOS.txt](TEXTOS_APROBADOS.txt) y [COPY.txt](COPY.txt). Permanecen literalmente iguales.
+- Commit visual vigente: `9c73226cfa65cdf3bc9fc36f76bf081499d9ed10`. Los mismos ocho nombres de archivo sustituyen la primera producción; hay una sola versión vigente.
 
-## Dirección visual aplicada
-Composición editorial de 1080 × 1350 px. Alternancia de marino `#13233A` y superficie `#F3F4F1`; líneas finas y acentos dorados `#C9A45C`. Source Serif 4 para titulares y Public Sans para información. Logotipo horizontal oficial en sus variantes apropiadas para fondo claro y oscuro. Numeración y espacio en blanco para facilitar lectura secuencial. No se emplean datos inventados ni colores de estado decorativos.
+## Dirección visual y control técnico
+Carrusel editorial 4:5, seis JPG RGB de 1080 × 1350 px y PDF de seis páginas. Paleta del Manual de Identidad v2.1: marino `#13233A`, dorado `#C9A45C` y superficie `#F3F4F1`. Source Serif 4, Public Sans y logotipo oficial. ChatGPT inspeccionó la vista conjunta y las láminas ampliadas tras la corrección; verificó márgenes, jerarquía, ortografía visible, exportación y correspondencia con los textos aprobados.
 
-## Revisión de ChatGPT — 8 octubre 2026
-- Visual: inspección de las seis láminas mediante vista conjunta y ampliación de cierre. Jerarquía clara, contraste legible, márgenes constantes, logo completo, sin cortes visibles. La idea central se reconoce en miniatura.
-- Contenido: secuencia fiel al texto aprobado: tensión → dependencia → urgencia de liquidez → capacidad → cierre. No se añadieron cifras, promesas ni casos.
-- Técnica: seis JPG RGB de 1080 × 1350 px; PDF de seis páginas con proporción 4:5; vista conjunta de 1414 × 1216 px. Los ocho archivos están verificados en GitHub.
-- Resultado de revisión propia: apto para dictamen externo, **no constituye aprobación final**.
+## Dictamen de Claude y corrección — 8–9 octubre 2026
+[Conversación y dictamen de Claude](https://claude.ai/chat/d700f62d-54e3-4212-a8b3-8c78d8352a73).
 
-## Dictamen solicitado a Claude
-Revisar el commit indicado, las seis imágenes, los dos archivos de texto y el PDF. Comprobar fidelidad al Calendario Editorial v0.1, Método Rumbo y Manual de Identidad v2.1; ortografía; legibilidad en teléfono y miniatura; jerarquía; márgenes y coherencia con el copy. Registrar aquí observaciones concretas con prioridad, lámina afectada y commit examinado. Si no hay hallazgos, dejar dictamen explícito. Cualquier cambio a textos aprobados requiere nuevo OK de Hugo.
+1. Primera revisión del commit `fe0d16f9218880bb625b7daf94e7344a4d1331f2`: **requiere correcciones**. Hallazgo prioritario N1: bajo contraste de numerales dorados grandes en las láminas claras 2, 3 y 5. Observó además numeración duplicada, etiquetas internas «IM05» y «RUTA», lectura de las preguntas como pasos ordenados y una línea de portada extensa.
+2. Corrección visual: se retiraron los numerales grandes y las etiquetas internas, quedó solo la paginación 01/06–06/06 y se acortó la línea de portada. El texto editorial aprobado y los copys no se alteraron. Se exportaron de nuevo los archivos a las mismas rutas en el commit `9c73226cfa65cdf3bc9fc36f76bf081499d9ed10`.
+3. Segunda revisión del PDF corregido y de los archivos del repositorio: **dictamen final «apto»**. Claude confirmó resolución del contraste y de la doble numeración, legibilidad a escala reducida, seis láminas fieles palabra por palabra a los textos aprobados, seis páginas 4:5 y coincidencia del PDF local con el repositorio. Confirmó que los cuatro archivos de texto IM05 permanecieron sin cambios entre ambos commits.
 
-**Estado:** dictamen de Claude pendiente. La subida a GitHub no activa automáticamente su sesión. Aprobación final de Hugo y programación pendientes.
+Observaciones no bloqueantes de Claude: la línea de portada aún es larga frente al título; el divisor de la lámina 2 es más corto que los de 3–5; la etiqueta de sistema «CRITERIO DIRECTIVO APLICADO» y la paginación deben contar con la conformidad visual final de Hugo. Propuso mejoras opcionales de copy, sin aplicarlas porque Hugo ya aprobó esos textos. Preparar texto alternativo de las imágenes al publicar.
+
+**Estado:** revisión externa apta. Aprobación final de Hugo y horarios pendientes. IM05 no programada.
